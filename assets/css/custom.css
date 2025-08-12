@@ -1,0 +1,85 @@
+---
+---
+
+/* Estilos personalizados para Vencedores de Sangrar */
+
+/* Tipografía */
+body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 19px;
+  line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: 700;
+}
+
+/* Estilo para capítulos */
+.post-content {
+  margin-bottom: 2em;
+}
+
+.post-content p:first-of-type {
+  font-size: 1.1em;
+  font-style: italic;
+}
+
+/* Estilo para el título del capítulo */
+.post-title {
+  font-size: 2.2em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
+/* Mejora de la navegación entre capítulos */
+.chapter-navigation {
+  margin-top: 4em;
+  padding-top: 1.5em;
+  border-top: 1px solid #ddd;
+}
+
+.chapter-links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.chapter-link {
+  text-decoration: none;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: italic;
+  color: #333;
+}
+
+.chapter-link:hover {
+  text-decoration: underline;
+  color: #000;
+}
+
+/* Estilo para el índice de capítulos */
+.home ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.home ul li {
+  margin-bottom: 0.8em;
+  border-bottom: 1px solid #f0f0f0;
+  padding-bottom: 0.8em;
+}
+
+.home ul li a {
+  text-decoration: none;
+  font-size: 1.1em;
+}
+
+/* Mejoras para dispositivos móviles */
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 17px;
+  }
+  
+  .post-title {
+    font-size: 1.8em;
+  }
+}

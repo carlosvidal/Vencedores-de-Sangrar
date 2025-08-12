@@ -1,0 +1,32 @@
+# Jekyll local build
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+.bundle/
+Gemfile.lock
+
+# Sistema
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Scripts y archivos de desarrollo
+add_frontmatter.py
+add_frontmatter.sh
+add_frontmatter_debug.py
+add_frontmatter_fixed.py
+add_frontmatter_manual.py
+add_frontmatter_v2.sh
+
+# Archivos que no son parte del libro
+404.html
+about.markdown
+index.markdown

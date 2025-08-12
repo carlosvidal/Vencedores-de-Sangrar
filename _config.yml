@@ -25,9 +25,29 @@ baseurl: "/Vencedores-de-Sangrar" # el subpath de tu sitio para GitHub Pages
 url: "https://carlosvidal.github.io" # reemplaza con tu nombre de usuario de GitHub
 
 # Build settings
-theme: minima
+remote_theme: patdryburgh/hitchens
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Hitchens Theme settings
+paginate: 10
+paginate_path: "/page/:num/"
+
+# Configuración específica del tema Hitchens
+footer_text: "Vencedores de Sangrar - Una novela de misterio"
+share_icons: false
+
+# Estilos personalizados
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Archivos adicionales a incluir
+include:
+  - assets/css/custom.css
 
 # Exclude from processing.
 # The following items will not be processed, by default.

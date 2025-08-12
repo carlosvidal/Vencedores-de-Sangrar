@@ -1,27 +1,44 @@
 ---
-layout: default
+layout: post
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+{{ content }}
 
-  <div class="post-content">
-    {{ content }}
+<nav class="chapter-navigation">
+  <div class="chapter-links">
+    {% if page.prev_chapter_url %}
+      <div class="prev-chapter">
+        <a href="{{ page.prev_chapter_url | relative_url }}" class="chapter-link">&laquo; {{ page.prev_chapter_title }}</a>
+      </div>
+    {% endif %}
+    
+    {% if page.next_chapter_url %}
+      <div class="next-chapter">
+        <a href="{{ page.next_chapter_url | relative_url }}" class="chapter-link">{{ page.next_chapter_title }} &raquo;</a>
+      </div>
+    {% endif %}
   </div>
+</nav>
 
-  <nav class="chapter-nav" style="display: flex; justify-content: space-between; margin-top: 2em;">
-    <div>
-      {% if page.prev_chapter_url %}
-        <a href="{{ page.prev_chapter_url | relative_url }}">&laquo; {{ page.prev_chapter_title }}</a>
-      {% endif %}
-    </div>
-    <div>
-      {% if page.next_chapter_url %}
-        <a href="{{ page.next_chapter_url | relative_url }}">{{ page.next_chapter_title }} &raquo;</a>
-      {% endif %}
-    </div>
-  </nav>
-
-</article>
+<style>
+  .chapter-navigation {
+    margin-top: 3em;
+    padding-top: 1.5em;
+    border-top: 1px solid #eee;
+  }
+  
+  .chapter-links {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .chapter-link {
+    text-decoration: none;
+    font-family: var(--serif-font);
+    font-style: italic;
+  }
+  
+  .chapter-link:hover {
+    text-decoration: underline;
+  }
+</style>
