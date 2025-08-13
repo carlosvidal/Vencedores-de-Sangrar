@@ -28,17 +28,17 @@ url: "https://carlosvidal.github.io" # reemplaza con tu nombre de usuario de Git
 remote_theme: patdryburgh/hitchens
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-seo-tag
   - jekyll-remote-theme
 
-# Hitchens Theme settings
-paginate: 10
-paginate_path: "/page/:num/"
+# Configuración del sitio
+show_excerpts: false
+minima:
+  date_format: "%d-%m-%Y"
 
-# Configuración específica del tema Hitchens
-footer_text: "Vencedores de Sangrar - Una novela de misterio"
-share_icons: false
+# Información del autor
+author:
+  name: Carlos Vidal
+  email: tu@email.com
 
 # Estilos personalizados
 sass:

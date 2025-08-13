@@ -17,8 +17,20 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 2em;
 }
 
-.post-content p:first-of-type {
-  font-size: 1.1em;
+.post-content p:first-of-type:first-letter {
+  float: left;
+  font-size: 3.5em;
+  line-height: 0.8;
+  padding-right: 0.1em;
+  padding-top: 0.1em;
+}
+
+/* Estilo para el número del capítulo */
+.chapter-number {
+  font-size: 1.2em;
+  text-align: center;
+  color: #555;
+  margin-bottom: 0.3em;
   font-style: italic;
 }
 
@@ -29,11 +41,11 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
-/* Mejora de la navegación entre capítulos */
+/* Navegación entre capítulos */
 .chapter-navigation {
-  margin-top: 4em;
+  margin-top: 3em;
   padding-top: 1.5em;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid #eee;
 }
 
 .chapter-links {
@@ -45,7 +57,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: none;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-style: italic;
-  color: #333;
+  color: #555;
 }
 
 .chapter-link:hover {
@@ -68,6 +80,30 @@ h1, h2, h3, h4, h5, h6 {
 .home ul li a {
   text-decoration: none;
   font-size: 1.1em;
+}
+
+/* Eliminar fecha de los capítulos */
+.post-meta {
+  display: none;
+}
+
+/* Ajustes para el tema minima */
+.site-header {
+  border-top: 5px solid #424242;
+  border-bottom: 1px solid #e8e8e8;
+  min-height: 55.95px;
+  background-color: #f9f9f9;
+}
+
+.site-title {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: 700;
+}
+
+.site-footer {
+  border-top: 1px solid #e8e8e8;
+  padding: 30px 0;
+  background-color: #f9f9f9;
 }
 
 /* Mejoras para dispositivos móviles */

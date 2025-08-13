@@ -1,44 +1,34 @@
 ---
-layout: post
+layout: default
 ---
 
-{{ content }}
+<article class="post">
 
-<nav class="chapter-navigation">
-  <div class="chapter-links">
-    {% if page.prev_chapter_url %}
-      <div class="prev-chapter">
-        <a href="{{ page.prev_chapter_url | relative_url }}" class="chapter-link">&laquo; {{ page.prev_chapter_title }}</a>
-      </div>
+  <header class="post-header">
+    {% if page.chapter_number %}
+    <div class="chapter-number">Capítulo {{ page.chapter_number }}</div>
     {% endif %}
-    
-    {% if page.next_chapter_url %}
-      <div class="next-chapter">
-        <a href="{{ page.next_chapter_url | relative_url }}" class="chapter-link">{{ page.next_chapter_title }} &raquo;</a>
-      </div>
-    {% endif %}
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
   </div>
-</nav>
 
-<style>
-  .chapter-navigation {
-    margin-top: 3em;
-    padding-top: 1.5em;
-    border-top: 1px solid #eee;
-  }
-  
-  .chapter-links {
-    display: flex;
-    justify-content: space-between;
-  }
-  
-  .chapter-link {
-    text-decoration: none;
-    font-family: var(--serif-font);
-    font-style: italic;
-  }
-  
-  .chapter-link:hover {
-    text-decoration: underline;
-  }
-</style>
+  <nav class="chapter-navigation">
+    <div class="chapter-links">
+      {% if page.prev_chapter_url %}
+        <div class="prev-chapter">
+          <a href="{{ page.prev_chapter_url | relative_url }}" class="chapter-link">&laquo; {{ page.prev_chapter_title }}</a>
+        </div>
+      {% endif %}
+      
+      {% if page.next_chapter_url %}
+        <div class="next-chapter">
+          <a href="{{ page.next_chapter_url | relative_url }}" class="chapter-link">{{ page.next_chapter_title }} &raquo;</a>
+        </div>
+      {% endif %}
+    </div>
+  </nav>
+
+</article>
