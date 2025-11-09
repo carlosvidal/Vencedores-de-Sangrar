@@ -9,6 +9,11 @@ layout: default
     {% if page.chapter_number %}
     <p class="chapter-number">Capítulo {{ page.chapter_number }}</p>
     {% endif %}
+    {% if page.chapter_image %}
+    <div class="chapter-image">
+      <img src="{{ page.chapter_image | relative_url }}" alt="{{ page.title }}" />
+    </div>
+    {% endif %}
     <h1 class="divided">{{ page.title }}</h1>
   </header>
 

@@ -2,7 +2,7 @@
 layout: chapter
 chapter_number: 2
 title: "La carretera envuelta en niebla"
-header_image: /assets/images/capitulo-02.jpg
+chapter_image: /capitulo-02/capitulo-2.webp
 prev_chapter_url: /capitulo-01/
 prev_chapter_title: "Capítulo 1: La última partida de Vargas"
 next_chapter_url: /capitulo-03/

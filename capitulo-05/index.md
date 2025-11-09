@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 5
 title: "El viaje fatídico"
+chapter_image: /capitulo-05/capitulo-5.webp
 permalink: /capitulo-05/
 prev_chapter_url: /capitulo-04/
 prev_chapter_title: "Capítulo 4: La orden"

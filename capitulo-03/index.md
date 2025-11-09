@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 3
 title: "Voces de la sierra"
+chapter_image: /capitulo-03/capitulo-3.webp
 prev_chapter_url: /capitulo-02/
 prev_chapter_title: "Capítulo 2: La carretera envuelta en niebla"
 next_chapter_url: /capitulo-04/

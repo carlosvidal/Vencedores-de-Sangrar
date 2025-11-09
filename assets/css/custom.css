@@ -7,6 +7,18 @@
   border-bottom: 0;
 }
 
+.chapter-image {
+  margin: 2rem auto;
+  max-width: 100%;
+}
+
+.chapter-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
 .post p.chapter-number {
   font-size: 1.1em;
   color: #64644B;
