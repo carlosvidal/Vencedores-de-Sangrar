@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: index
 title: Vencedores de Sangrar
 ---
 
