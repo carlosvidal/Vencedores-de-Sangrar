@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 14
 title: "La entrevista en la mina"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-14.webp
 prev_chapter_url: /capitulo-13-llamada-desde-la-selva.html
 prev_chapter_title: "Capítulo 13"

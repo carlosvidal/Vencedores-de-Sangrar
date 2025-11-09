@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 21
 title: "El eco de un disparo"
+author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-20-el-precio-de-la-curiosidad.html
 prev_chapter_title: "Capítulo 20"
 next_chapter_url: /capitulo-22-secretos-enterrados.html

@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 1
 title: "La última partida de Vargas"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-1.webp
 prev_chapter_url: /
 prev_chapter_title: "Índice"

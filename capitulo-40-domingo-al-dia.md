@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 40
 title: "Domingo al día"
+author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-39-el-peso-de-la-verdad.html
 prev_chapter_title: "Capítulo 39"
 ---

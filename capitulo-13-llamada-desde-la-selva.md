@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 13
 title: "Llamada desde la selva"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-13.webp
 prev_chapter_url: /capitulo-12-decision-en-la-puna.html
 prev_chapter_title: "Capítulo 12"

@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 12
 title: "Decisión en la puna"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-12.webp
 prev_chapter_url: /capitulo-11-el-amanecer-en-el-bosque-de-piedras.html
 prev_chapter_title: "Capítulo 11"

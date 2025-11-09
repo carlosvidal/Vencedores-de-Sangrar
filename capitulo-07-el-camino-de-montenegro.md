@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 7
 title: "El camino de Montenegro"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-7.webp
 prev_chapter_url: /capitulo-06-primeras-sospechas.html
 prev_chapter_title: "Capítulo 6"

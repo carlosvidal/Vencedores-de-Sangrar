@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 27
 title: "Bloqueo en la carretera"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-27.webp
 prev_chapter_url: /capitulo-26-conexiones-peligrosas.html
 prev_chapter_title: "Capítulo 26"

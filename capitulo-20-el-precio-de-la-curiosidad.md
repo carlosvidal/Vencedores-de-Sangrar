@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 20
 title: "El precio de la curiosidad"
+author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-19-nueva-ciudad-viejas-pesadillas.html
 prev_chapter_title: "Capítulo 19"
 next_chapter_url: /capitulo-21-el-eco-de-un-disparo.html

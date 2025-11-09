@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 36
 title: "Tras las huellas del sicario"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-36.webp
 prev_chapter_url: /capitulo-35-pactos-oscuros.html
 prev_chapter_title: "Capítulo 35"

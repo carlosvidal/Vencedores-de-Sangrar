@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 39
 title: "El peso de la verdad"
+author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-38-revelaciones-en-sangrar.html
 prev_chapter_title: "Capítulo 38"
 next_chapter_url: /capitulo-40-domingo-al-dia.html

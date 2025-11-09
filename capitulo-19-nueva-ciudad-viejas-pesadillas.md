@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 19
 title: "Nueva ciudad, viejas pesadillas"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-19.webp
 prev_chapter_url: /capitulo-18-el-camino-a-huancayo.html
 prev_chapter_title: "Capítulo 18"

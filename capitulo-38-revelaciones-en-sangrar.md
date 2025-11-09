@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 38
 title: "Revelaciones en Sángrar"
+author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-37-el-interrogatorio.html
 prev_chapter_title: "Capítulo 37"
 next_chapter_url: /capitulo-39-el-peso-de-la-verdad.html

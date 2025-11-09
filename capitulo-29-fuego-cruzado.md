@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 29
 title: "Fuego cruzado"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-29.webp
 prev_chapter_url: /capitulo-28-sangre-en-el-asfalto.html
 prev_chapter_title: "Capítulo 28"

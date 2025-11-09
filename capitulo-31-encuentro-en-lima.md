@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 31
 title: "Encuentro en Lima"
+author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-30-la-casa-del-poder.html
 prev_chapter_title: "Capítulo 30"
 next_chapter_url: /capitulo-32-lugar-de-la-memoria.html

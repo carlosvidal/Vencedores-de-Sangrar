@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 35
 title: "Pactos oscuros"
+author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-34-la-sombra-del-sicario.html
 prev_chapter_title: "Capítulo 34"
 next_chapter_url: /capitulo-36-tras-las-huellas-del-sicario.html

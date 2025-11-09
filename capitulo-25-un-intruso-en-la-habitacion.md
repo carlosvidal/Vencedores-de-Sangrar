@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 25
 title: "Un intruso en la habitación"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-25.webp
 prev_chapter_url: /capitulo-24-luces-camaras-verdad.html
 prev_chapter_title: "Capítulo 24"

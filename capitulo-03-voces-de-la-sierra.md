@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 3
 title: "Voces de la sierra"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-3.webp
 prev_chapter_url: /capitulo-02-la-carretera-envuelta-en-niebla.html
 prev_chapter_title: "Capítulo 2"

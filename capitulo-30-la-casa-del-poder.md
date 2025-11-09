@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 30
 title: "La casa del poder"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-30.webp
 prev_chapter_url: /capitulo-29-fuego-cruzado.html
 prev_chapter_title: "Capítulo 29"

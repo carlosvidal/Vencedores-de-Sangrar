@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 11
 title: "El amanecer en el bosque de piedras"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-11.webp
 prev_chapter_url: /capitulo-10-madrugada-en-huayre.html
 prev_chapter_title: "Capítulo 10"

@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 5
 title: "El viaje fatídico"
+author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-5.webp
 prev_chapter_url: /capitulo-04-la-orden.html
 prev_chapter_title: "Capítulo 4"
