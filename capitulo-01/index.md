@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 1
 title: "La última partida de Vargas"
+header_image: /assets/images/capitulo-01.jpg
 prev_chapter_url: /
 prev_chapter_title: "Índice"
 next_chapter_url: /capitulo-02/

@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv:*)",
+      "Bash(brew list:*)",
+      "Read(//Users/carlosvidal/Developer/**)",
+      "Bash(export SSL_CERT_FILE=/etc/ssl/cert.pem)",
+      "Bash(bundle exec jekyll serve:*)",
+      "Bash(DISABLE_SSL_VERIFY=1 SSL_VERIFY_MODE=0 bundle exec jekyll serve:*)",
+      "Bash(git clone:*)",
+      "Bash(bundle config:*)",
+      "Bash(chmod:*)",
+      "Bash(./serve.sh:*)",
+      "Bash(brew reinstall:*)",
+      "Bash(gem install:*)",
+      "Bash(certified-update)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
