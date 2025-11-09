@@ -20,22 +20,29 @@
 }
 
 .chapter-number-row {
-  display: flex;
+  display: grid;
+  grid-template-columns: 24px 1fr 24px;
   align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
   margin-bottom: 1rem;
 }
 
 .home-link {
-  font-size: 1.2em;
   text-decoration: none;
   opacity: 0.5;
   transition: opacity 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .home-link:hover {
   opacity: 1;
+}
+
+.home-icon {
+  width: 24px;
+  height: 24px;
+  stroke: currentColor;
 }
 
 .post p.chapter-number {
