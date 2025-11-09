@@ -4,21 +4,15 @@ layout: default
 
 <header class="site-masthead">
   {% if site.title %}
-    <h1>
-      {{ site.title }}
-    </h1>
+  <h1>{{ site.title }}</h1>
   {% endif %}
-  {% if site.description %}
-    <h2>
-      {{ site.description }}
-    </h2>
+  {% if site.author.name %}
+  <h2>{{ site.author.name }}</h2>
   {% endif %}
 </header>
 
 <main class="post" id="main" role="main" aria-label="Content">
   <h1 class="divided">{{ page.title }}</h1>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  <div class="post-content">{{ content }}</div>
 </main>
