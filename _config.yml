@@ -23,6 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Una novela de misterio ambientada en Perú que explora temas de poder, corrupción y justicia.
 baseurl: "/Vencedores-de-Sangrar" # el subpath de tu sitio para GitHub Pages
 url: "https://carlosvidal.github.io" # reemplaza con tu nombre de usuario de GitHub
+lang: es
 
 # Build settings
 # Usar tema remoto de GitHub (Hitchens)
