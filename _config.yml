@@ -60,14 +60,55 @@ include:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - capitulo-01/
+  - capitulo-02/
+  - capitulo-03/
+  - capitulo-04/
+  - capitulo-05/
+  - capitulo-06/
+  - capitulo-07/
+  - capitulo-08/
+  - capitulo-09/
+  - capitulo-10/
+  - capitulo-11/
+  - capitulo-12/
+  - capitulo-13/
+  - capitulo-14/
+  - capitulo-15/
+  - capitulo-16/
+  - capitulo-17/
+  - capitulo-18/
+  - capitulo-19/
+  - capitulo-20/
+  - capitulo-21/
+  - capitulo-22/
+  - capitulo-23/
+  - capitulo-24/
+  - capitulo-25/
+  - capitulo-26/
+  - capitulo-27/
+  - capitulo-28/
+  - capitulo-29/
+  - capitulo-30/
+  - capitulo-31/
+  - capitulo-32/
+  - capitulo-33/
+  - capitulo-34/
+  - capitulo-35/
+  - capitulo-36/
+  - capitulo-37/
+  - capitulo-38/
+  - capitulo-39/
+  - capitulo-40/
+  - reorganize.py
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

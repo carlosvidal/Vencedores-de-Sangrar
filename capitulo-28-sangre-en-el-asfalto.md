@@ -1,0 +1,104 @@
+---
+layout: chapter
+chapter_number: 28
+title: "Sangre en el asfalto"
+prev_chapter_url: /capitulo-27-bloqueo-en-la-carretera.md
+prev_chapter_title: "Capítulo 27"
+next_chapter_url: /capitulo-29-fuego-cruzado.md
+next_chapter_title: "Capítulo 29"
+---
+
+
+El sol del mediodía caía implacable sobre la Carretera Central cuando la Sargento Mamani, junto a un contingente de policías, avanzaba entre los cientos de vehículos detenidos a causa de los bloqueos. El asfalto, calentado por horas de sol directo, desprendía un calor que se sumaba al de los cuerpos apiñados y los motores ocasionalmente encendidos por conductores que buscaban un poco de aire acondicionado. El olor a combustible, comida recalentada y humanidad se mezclaba en una fragancia única que Mamani había llegado a asociar con este tipo de conflictos.
+
+Ataviados con cascos, escudos y varas, los policías formaban una línea compacta que se movía lentamente hacia los manifestantes. El equipo anti-disturbios estaba completo: chalecos antibalas bajo los uniformes, rodilleras, protectores de brazos y piernas. Parecían astronautas listos para explorar un planeta hostil, aunque el territorio que estaban a punto de enfrentar era, irónicamente, su propio país.
+
+Mamani sentía el peso de la ironía mientras caminaba. La correa de su casco antidisturbios le rozaba la barbilla, irritándole la piel ya sensible por el sol y el viento seco de la altura. El escudo, aunque no excesivamente pesado, comenzaba a hacerse notar en su brazo izquierdo después de llevarlo por más de una hora.
+
+*Aquí estoy,* pensó con amargura, enfrentándome a gente de Huayllay, Huayre y otras comunidades, para permitir que los taxis —posiblemente vinculados al asesinato de Quispe— puedan circular. Cada vehículo que pasaba representaba para ella una posible pista, un potencial eslabón en la cadena que conducía al asesino de su compañero. El fantasma de Quispe parecía caminar a su lado, un recordatorio constante de una justicia aún pendiente.
+
+—¡Avancen\! —gritó el comandante del operativo desde el frente, su voz amplificada por un megáfono que emitía un pitido agudo con cada palabra—. ¡Despejen la vía\!
+
+El contingente policial avanzó con pasos sincronizados, sus botas golpeando el asfalto al unísono, creando un ritmo casi hipnótico. Los escudos, unidos borde con borde, formaban una pared impenetrable. Era una coreografía de intimidación que Mamani había practicado en innumerables entrenamientos, pero que siempre se sentía diferente en la realidad, cuando los obstáculos no eran conos de plástico sino compatriotas con demandas y frustraciones reales.
+
+Mientras el cordón policial se acercaba a la barricada principal, Mamani no podía evitar estudiar a los manifestantes. Reconoció algunas caras de su tiempo en Huayllay: el viejo Saturnino que vendía papas en el mercado, la señora Juana que tejía chullos para los turistas, el joven Félix que reparaba radios y celulares en un puesto improvisado junto a la plaza. Gente común, gente que había sido amable con ella durante sus años de servicio en el pueblo, y que ahora la miraba con una mezcla de desconfianza, decepción y, en algunos casos, franco desprecio.
+
+—¡Policía vendida\! ¡Policía vendida\! —comenzaron a corear algunos manifestantes, agitando sus puños en el aire. Otros golpeaban ollas y tapas, creando una cacofonía metálica que reverberaba entre las montañas.
+
+Mamani mantuvo su expresión neutral, ese rostro impasible que había perfeccionado a lo largo de años de servicio. La cápsula de gas lacrimógeno que llevaba en el cinturón le pesaba como plomo. Sabía que, de ser necesario, debería usarla contra estas personas, contra sus antiguos vecinos. La idea le revolvía el estómago más que el olor a neumáticos quemados.
+
+—Sargento, ¿lista para proceder con la fase dos? —preguntó el suboficial a su derecha, un joven atlético con un acento que delataba su origen limeño y una inexperiencia que se manifestaba en el entusiasmo excesivo de su voz.
+
+—Todavía no —respondió Mamani secamente—. Sigamos con el protocolo de diálogo primero.
+
+El suboficial pareció decepcionado, como si hubiera estado esperando algo más "emocionante". Mamani lo miró de reojo, preguntándose cuántas de estas operaciones habría participado antes, si entendía realmente las consecuencias de las acciones que proponía con tanta ligereza.
+
+Mientras tanto, detenido en un semáforo del centro de Huancayo, Diego Cáceres, un dirigente de una comunidad campesina y no de los líderes de la protesta, hablaba por teléfono en voz baja pero firme. Vestía un chullo tradicional y una casaca de cuero gastada que contrastaba con la camioneta relativamente nueva que conducía, un símbolo de la movilidad social que había logrado a base de esfuerzo y sacrificio. Su rostro, marcado por el sol y el viento de la puna, mostraba las arrugas prematuras de quien ha pasado demasiado tiempo preocupado, luchando contra fuerzas que parecían incontrolables.
+
+El tráfico en Huancayo estaba inusualmente congestionado, con vehículos varados en toda la avenida Ferrocarril, improvisando vías alternas para salir de la ciudad. Muchos eran camiones de mercancías, atascados por el bloqueo e intentando encontrar una ruta que les permitiera al menos volver a sus puntos de origen. El ruido de las bocinas formaba una cacofonía urbana que hacía difícil escuchar cualquier conversación.
+
+—No, no vamos a levantar el bloqueo por menos de 100,000 soles —decía Cáceres, cubriendo su otro oído con la mano libre para poder escuchar mejor a su interlocutor—. Ustedes tienen el dinero, la mina les dará mucho más que eso.
+
+La voz al otro lado de la línea, metálica y distante, respondió algo que pareció disgustar a Cáceres.
+
+—No me vengas con amenazas —replicó, su tono bajando hasta convertirse casi en un gruñido—. No somos unos campesinos ignorantes que puedes asustar con un par de palabras. Sabemos lo que está en juego.
+
+Los autos avanzaron unos metros cuando el semáforo cambió a verde, solo para detenerse nuevamente a los pocos segundos. Un vendedor ambulante aprovechó la oportunidad para acercarse a la ventanilla de Cáceres, ofreciendo agua embotellada y golosinas con una sonrisa esperanzada. Cáceres negó con la cabeza, concentrado en su conversación.
+
+De repente, una motocicleta negra se acercó por el carril contrario, zigzagueando entre los autos con la habilidad de quien ha memorizado cada recoveco de la ciudad. Sin luces, casi como un fantasma material, la moto se deslizaba entre el tráfico con una gracia letal. El conductor, vestido completamente de negro con un casco que ocultaba su rostro, parecía buscar algo o a alguien.
+
+—Mira, ya tomé mi decisión —continuó Cáceres, ajeno al peligro que se aproximaba—. Si quieren que levantemos el bloqueo, tendrán que pagar lo acordado. De lo contrario, prepárense para la huelga indefinida.
+
+La motocicleta le cerró el paso, colocándose justo frente a su camioneta. Cáceres apenas tuvo tiempo de voltearse, sus ojos abriéndose con el reconocimiento tardío del peligro, antes de que dos disparos resonaran en el pavimento. El primero impactó en el parabrisas, creando una telaraña de grietas que distorsionaban la realidad. El segundo encontró su objetivo con precisión quirúrgica, atravesando el vidrio ya debilitado y penetrando en la frente de Cáceres, justo encima del ojo izquierdo.
+
+Cayó sobre el timón de su camioneta con el teléfono aún en su mano, la llamada todavía en curso. Su dedo índice, por un reflejo involuntario, presionó el claxon, y el sonido constante se sumó al coro de bocinas, pasando desapercibido por varios minutos. La sangre comenzó a gotear sobre la consola central, mezclándose con el café que había dejado a medio tomar en el portavasos.
+
+El sicario ya había desaparecido, perdiéndose entre el tráfico como una sombra fugaz. Nadie vio su rostro. Nadie anotó la placa de la motocicleta. Solo quedó el eco de los disparos, rápidamente absorbido por el ruido ambiente de la ciudad.
+
+De vuelta en la carretera, Mamani no podía evitar mirar cada taxi que pasaba con una mezcla de sospecha y esperanza. Si tan solo pudiera revisarlos todos, pensaba mientras el cordón policial continuaba avanzando. El asesino de Quispe podría estar aquí mismo, escondido a plena vista entre tantos vehículos idénticos.
+
+Los manifestantes comenzaron a retroceder ante el avance policial, algunos arrojando piedras que rebotaban contra los escudos, otros simplemente replegándose hacia puntos más altos del terreno. La tensión era palpable en el aire, mezclándose con el humo de los neumáticos que todavía ardían en la improvisada barricada.
+
+—¡No nos vamos a mover\! —gritaba una anciana, plantada firmemente en medio de la carretera como si sus pies echaran raíces en el asfalto—. ¡Esta tierra es nuestra\! ¡El agua es nuestra\!
+
+Gritos, empujones y el ocasional gas lacrimógeno llenaban el aire, creando una atmósfera casi irreal, como si toda la escena estuviera ocurriendo bajo el agua, con movimientos lentos y sonidos amortiguados. Mamani se mantenía alerta, tratando de mantener el control de la situación sin recurrir a la violencia innecesaria.
+
+Estos no son delincuentes, se recordaba a sí misma mientras desviaba una piedra con su escudo. Son personas desesperadas, personas que sienten que nadie las escucha.
+
+De repente, notó un movimiento extraño entre los taxis colectivos que esperaban al otro lado de la barricada. Un conductor, un hombre joven con una gorra de béisbol desteñida y gafas de sol demasiado grandes para su rostro estrecho, acababa de colgar su teléfono. Su expresión había cambiado, como si hubiera recibido noticias importantes. Con gestos rápidos y precisos, comenzó a hacer señales a otros vehículos cercanos.
+
+—¡Nos vamos\! —gritó, su voz cortando a través del caos como un cuchillo—. ¡Ahora\! ¡Ya está hecho\!
+
+Como si fuera una señal ensayada, los manifestantes comenzaron a dispersarse con una coordinación sorprendente. Algunos recogían piedras y palos, otros ayudaban a los más ancianos a retirarse hacia los cerros. Lo que momentos antes había sido un frente unido ahora se desintegraba como azúcar en agua caliente.
+
+Los taxis, que hasta ese momento parecían resignados a una larga espera, arrancaron sus motores casi al unísono. El rugido mecánico llenó el valle, compitiendo con los gritos y silbatos de los policías confundidos.
+
+—¿Qué está pasando? —preguntó Mamani a nadie en particular, desconcertada por el repentino cambio en la dinámica del conflicto.
+
+El comandante del operativo, igualmente sorprendido, ordenó a sus hombres que se mantuvieran en posición, pero era claro que la situación había cambiado drásticamente.
+
+En cuestión de minutos, la carretera que había estado bloqueada durante días se llenó del ruido de motores acelerando. Los taxis pasaron junto a los policías a toda velocidad, dejando tras de sí una estela de polvo y confusión. Los conductores, con expresiones que oscilaban entre el alivio y una extraña euforia contenida, evitaban el contacto visual con los agentes.
+
+El comandante del operativo se acercó a Mamani, quitándose el casco para revelar un rostro empapado en sudor y una calva incipiente que brillaba bajo el sol de la tarde.
+
+—Bueno, parece que lo logramos —dijo con tono jactancioso, como si la repentina retirada de los manifestantes fuera producto de la intimidación policial y no de algún factor desconocido.
+
+Mamani lo miró, sin molestarse en ocultar su escepticismo.
+
+—Con todo respeto, comandante, pero esto no tiene sentido. No hemos hecho nada diferente. Algo más ha pasado.
+
+El comandante se encogió de hombros, desestimando su preocupación con un gesto displicente.
+
+—A caballo regalado no se le miran los dientes, Sargento. Lo importante es que la vía está libre.
+
+Mientras él se alejaba para coordinar la retirada del personal, Mamani observó los vehículos alejarse, una sensación de inquietud creciendo en su interior. Los taxis pasaban en una procesión constante, sus luces delanteras encendidas a pesar del día claro, sus conductores manteniendo la vista fija en la carretera.
+
+*¿Cómo hicieron?,* pensó mientras veía el último taxi desaparecer tras una curva. La protesta no se ha disuelto por nuestra intervención, de eso estoy segura.
+
+Algo más ha sucedido, algo que no puedo ver pero que siento en mis huesos.
+
+Mientras los últimos manifestantes se retiraban y el tráfico comenzaba a fluir normalmente, Mamani se quitó el casco, dejando que el viento fresco de los Andes acariciara su rostro sudoroso. A lo lejos, las montañas permanecían impasibles, vigilantes eternos de las pequeñas tragedias humanas que se desarrollaban a sus pies. El cielo, de un azul imposiblemente puro, parecía burlarse de la confusión terrenal.
+
+La sensación persistía: lejos de resolverse, se estaba evidenciando algo mucho más oscuro y peligroso. Como si el aparente final del bloqueo fuera solo el principio de una historia mucho más siniestra.
+
+Mamani volvió a colocarse el casco y caminó hacia la patrulla, cada paso resonando con una determinación renovada. Encontraría respuestas, sin importar dónde la llevara la investigación. Se lo debía a Quispe, a su padre, y a sí misma.
