@@ -27,7 +27,16 @@
       "Read(//private/tmp/**)",
       "Bash(cat:*)",
       "Read(//tmp/hitchens-temp/_layouts/**)",
-      "Read(//tmp/hitchens-temp/_includes/**)"
+      "Read(//tmp/hitchens-temp/_includes/**)",
+      "Bash(git mv:*)",
+      "Bash(for chapter in 06 07 11 12 13 14 15 17 18 19 24 25 27 29 30 32 33 36)",
+      "Bash(do)",
+      "Bash(if [ -f \"capitulo-$chapter/index.md\" ])",
+      "Bash(then)",
+      "Bash(fi)",
+      "Bash(done)",
+      "Bash(if [ -f \"capitulo-$chapter/capitulo-$chapter.webp\" ])",
+      "Bash(echo:*)"
     ],
     "deny": [],
     "ask": []
