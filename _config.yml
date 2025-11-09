@@ -25,14 +25,11 @@ baseurl: "/Vencedores-de-Sangrar" # el subpath de tu sitio para GitHub Pages
 url: "https://carlosvidal.github.io" # reemplaza con tu nombre de usuario de GitHub
 
 # Build settings
-# Usar tema minima localmente (incluido en jekyll)
-theme: minima
-# NOTA: En GitHub Pages, descomenta la línea de abajo para usar Hitchens
-# remote_theme: patdryburgh/hitchens
+# Usar tema remoto de GitHub (Hitchens)
+remote_theme: patdryburgh/hitchens
 plugins:
   - jekyll-feed
-  # Comentado jekyll-remote-theme para desarrollo local
-  # - jekyll-remote-theme
+  - jekyll-remote-theme
 
 # Configuración del sitio
 show_excerpts: false
