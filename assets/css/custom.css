@@ -1,44 +1,24 @@
 /* Estilos personalizados para Vencedores de Sangrar */
 
-.chapter {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
 .chapter-header {
   text-align: center;
-  margin-bottom: 3rem;
-  border-bottom: 2px solid #e0e0e0;
+  margin-bottom: 2rem;
   padding-bottom: 1.5rem;
 }
 
-.chapter-header h1 {
-  font-size: 2.5rem;
-  margin-bottom: 0.5rem;
-  color: #2c3e50;
-}
-
 .chapter-number {
-  font-size: 1.2rem;
-  color: #7f8c8d;
+  font-size: 1.1em;
+  color: #64644B;
   font-style: italic;
+  margin-top: -1em;
+  margin-bottom: 2em;
 }
 
-.chapter-content {
-  line-height: 1.8;
-  font-size: 1.1rem;
-  text-align: justify;
-}
-
-.chapter-content p {
-  margin-bottom: 1.5rem;
-}
-
+/* Navegación entre capítulos */
 .chapter-navigation {
-  margin-top: 4rem;
+  margin-top: 3rem;
   padding-top: 2rem;
-  border-top: 2px solid #e0e0e0;
+  border-top: 1px solid #e0e0e0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -46,17 +26,17 @@
 
 .prev-chapter a,
 .next-chapter a {
-  padding: 0.75rem 1.5rem;
-  background-color: #3498db;
-  color: white;
+  padding: 0.5rem 1rem;
+  background-color: #fede00;
+  color: #0b0404;
   text-decoration: none;
-  border-radius: 4px;
-  transition: background-color 0.3s;
+  font-size: 0.85em;
+  transition: background-color 0.2s;
 }
 
 .prev-chapter a:hover,
 .next-chapter a:hover {
-  background-color: #2980b9;
+  background-color: #e5c700;
 }
 
 .next-chapter {
