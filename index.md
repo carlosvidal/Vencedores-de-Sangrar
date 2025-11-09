@@ -1,12 +1,15 @@
 ---
 layout: index
-title: Vencedores de Sangrar
+title: Sumilla
 ---
 
 En las alturas de los Andes peruanos, la Sargento María Mamani se enfrenta a una red de corrupción que se extiende desde las minas hasta los más altos niveles del gobierno. Lo que comienza como la investigación de la desaparición de un abogado se convierte en una peligrosa búsqueda de la verdad que entrelaza el presente con los oscuros secretos de la guerra contra el terrorismo.
+
 Mamani, impulsada por su sentido de justicia y el deseo de descubrir la verdad sobre la muerte de su padre, se adentra en un laberinto de mentiras, sobornos y asesinatos. Se enfrenta a sicarios, políticos corruptos y empresarios sin escrúpulos, mientras desentraña una conspiración que amenaza con sacudir los cimientos mismos del país.
+
 A medida que Mamani se acerca a la verdad, descubre que su propia historia está entrelazada con la trama que investiga, llevándola a un impactante enfrentamiento final donde el pasado y el presente colisionan, y donde la línea entre justicia y venganza se desdibuja.
-'Vencedores de Sángrar' escrita con inteligencia artificial, es un thriller político que explora los efectos duraderos de la violencia política en el Perú, la corrupción endémica y el costo personal de buscar la verdad en un sistema diseñado para ocultarla.
+
+'Vencedores de Sángrar' escrita e ilustrada con inteligencia artificial, es un thriller político que explora los efectos duraderos de la violencia política en el Perú, la corrupción endémica y el costo personal de buscar la verdad en un sistema diseñado para ocultarla.
 
 ## Índice de Capítulos
 
