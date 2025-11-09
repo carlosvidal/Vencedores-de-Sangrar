@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 10
 title: "Madrugada en Huayre"
-prev_chapter_url: /capitulo-09-la-noche-en-el-rancho-rosa.md
+prev_chapter_url: /capitulo-09-la-noche-en-el-rancho-rosa.html
 prev_chapter_title: "Capítulo 9"
-next_chapter_url: /capitulo-11-el-amanecer-en-el-bosque-de-piedras.md
+next_chapter_url: /capitulo-11-el-amanecer-en-el-bosque-de-piedras.html
 next_chapter_title: "Capítulo 11"
 ---
 

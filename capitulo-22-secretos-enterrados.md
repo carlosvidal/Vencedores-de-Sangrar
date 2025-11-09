@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 22
 title: "Secretos Enterrados"
-prev_chapter_url: /capitulo-21-el-eco-de-un-disparo.md
+prev_chapter_url: /capitulo-21-el-eco-de-un-disparo.html
 prev_chapter_title: "Capítulo 21"
-next_chapter_url: /capitulo-23-estrellas-de-neon.md
+next_chapter_url: /capitulo-23-estrellas-de-neon.html
 next_chapter_title: "Capítulo 23"
 ---
 

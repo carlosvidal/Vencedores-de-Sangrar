@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 27
 title: "Bloqueo en la carretera"
 chapter_image: /img/capitulo-27.webp
-prev_chapter_url: /capitulo-26-conexiones-peligrosas.md
+prev_chapter_url: /capitulo-26-conexiones-peligrosas.html
 prev_chapter_title: "Capítulo 26"
-next_chapter_url: /capitulo-28-sangre-en-el-asfalto.md
+next_chapter_url: /capitulo-28-sangre-en-el-asfalto.html
 next_chapter_title: "Capítulo 28"
 ---
 

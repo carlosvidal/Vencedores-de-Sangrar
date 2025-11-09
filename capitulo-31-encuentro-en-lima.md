@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 31
 title: "Encuentro en Lima"
-prev_chapter_url: /capitulo-30-la-casa-del-poder.md
+prev_chapter_url: /capitulo-30-la-casa-del-poder.html
 prev_chapter_title: "Capítulo 30"
-next_chapter_url: /capitulo-32-lugar-de-la-memoria.md
+next_chapter_url: /capitulo-32-lugar-de-la-memoria.html
 next_chapter_title: "Capítulo 32"
 ---
 

@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 29
 title: "Fuego cruzado"
 chapter_image: /img/capitulo-29.webp
-prev_chapter_url: /capitulo-28-sangre-en-el-asfalto.md
+prev_chapter_url: /capitulo-28-sangre-en-el-asfalto.html
 prev_chapter_title: "Capítulo 28"
-next_chapter_url: /capitulo-30-la-casa-del-poder.md
+next_chapter_url: /capitulo-30-la-casa-del-poder.html
 next_chapter_title: "Capítulo 30"
 ---
 

@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 30
 title: "La casa del poder"
 chapter_image: /img/capitulo-30.webp
-prev_chapter_url: /capitulo-29-fuego-cruzado.md
+prev_chapter_url: /capitulo-29-fuego-cruzado.html
 prev_chapter_title: "Capítulo 29"
-next_chapter_url: /capitulo-31-encuentro-en-lima.md
+next_chapter_url: /capitulo-31-encuentro-en-lima.html
 next_chapter_title: "Capítulo 31"
 ---
 

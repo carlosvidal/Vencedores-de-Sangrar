@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 16
 title: "Aguas turbias"
-prev_chapter_url: /capitulo-15-el-orador-del-pueblo.md
+prev_chapter_url: /capitulo-15-el-orador-del-pueblo.html
 prev_chapter_title: "Capítulo 15"
-next_chapter_url: /capitulo-17-el-caso-cerrado.md
+next_chapter_url: /capitulo-17-el-caso-cerrado.html
 next_chapter_title: "Capítulo 17"
 ---
 

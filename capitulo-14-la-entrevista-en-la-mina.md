@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 14
 title: "La entrevista en la mina"
 chapter_image: /img/capitulo-14.webp
-prev_chapter_url: /capitulo-13-llamada-desde-la-selva.md
+prev_chapter_url: /capitulo-13-llamada-desde-la-selva.html
 prev_chapter_title: "Capítulo 13"
-next_chapter_url: /capitulo-15-el-orador-del-pueblo.md
+next_chapter_url: /capitulo-15-el-orador-del-pueblo.html
 next_chapter_title: "Capítulo 15"
 ---
 

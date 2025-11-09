@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 36
 title: "Tras las huellas del sicario"
 chapter_image: /img/capitulo-36.webp
-prev_chapter_url: /capitulo-35-pactos-oscuros.md
+prev_chapter_url: /capitulo-35-pactos-oscuros.html
 prev_chapter_title: "Capítulo 35"
-next_chapter_url: /capitulo-37-el-interrogatorio.md
+next_chapter_url: /capitulo-37-el-interrogatorio.html
 next_chapter_title: "Capítulo 37"
 ---
 

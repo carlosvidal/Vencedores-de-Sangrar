@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 24
 title: "Luces, cámaras, verdad"
 chapter_image: /img/capitulo-24.webp
-prev_chapter_url: /capitulo-23-estrellas-de-neon.md
+prev_chapter_url: /capitulo-23-estrellas-de-neon.html
 prev_chapter_title: "Capítulo 23"
-next_chapter_url: /capitulo-25-un-intruso-en-la-habitacion.md
+next_chapter_url: /capitulo-25-un-intruso-en-la-habitacion.html
 next_chapter_title: "Capítulo 25"
 ---
 

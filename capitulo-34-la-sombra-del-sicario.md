@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 34
 title: "La sombra del sicario"
-prev_chapter_url: /capitulo-33-la-caja-de-pandora.md
+prev_chapter_url: /capitulo-33-la-caja-de-pandora.html
 prev_chapter_title: "Capítulo 33"
-next_chapter_url: /capitulo-35-pactos-oscuros.md
+next_chapter_url: /capitulo-35-pactos-oscuros.html
 next_chapter_title: "Capítulo 35"
 ---
 

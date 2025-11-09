@@ -2,7 +2,7 @@
 layout: chapter
 chapter_number: 40
 title: "Domingo al día"
-prev_chapter_url: /capitulo-39-el-peso-de-la-verdad.md
+prev_chapter_url: /capitulo-39-el-peso-de-la-verdad.html
 prev_chapter_title: "Capítulo 39"
 ---
 

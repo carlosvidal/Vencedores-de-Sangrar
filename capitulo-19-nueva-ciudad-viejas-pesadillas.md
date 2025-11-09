@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 19
 title: "Nueva ciudad, viejas pesadillas"
 chapter_image: /img/capitulo-19.webp
-prev_chapter_url: /capitulo-18-el-camino-a-huancayo.md
+prev_chapter_url: /capitulo-18-el-camino-a-huancayo.html
 prev_chapter_title: "Capítulo 18"
-next_chapter_url: /capitulo-20-el-precio-de-la-curiosidad.md
+next_chapter_url: /capitulo-20-el-precio-de-la-curiosidad.html
 next_chapter_title: "Capítulo 20"
 ---
 

@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 12
 title: "Decisión en la puna"
 chapter_image: /img/capitulo-12.webp
-prev_chapter_url: /capitulo-11-el-amanecer-en-el-bosque-de-piedras.md
+prev_chapter_url: /capitulo-11-el-amanecer-en-el-bosque-de-piedras.html
 prev_chapter_title: "Capítulo 11"
-next_chapter_url: /capitulo-13-llamada-desde-la-selva.md
+next_chapter_url: /capitulo-13-llamada-desde-la-selva.html
 next_chapter_title: "Capítulo 13"
 ---
 

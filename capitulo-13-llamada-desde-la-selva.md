@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 13
 title: "Llamada desde la selva"
 chapter_image: /img/capitulo-13.webp
-prev_chapter_url: /capitulo-12-decision-en-la-puna.md
+prev_chapter_url: /capitulo-12-decision-en-la-puna.html
 prev_chapter_title: "Capítulo 12"
-next_chapter_url: /capitulo-14-la-entrevista-en-la-mina.md
+next_chapter_url: /capitulo-14-la-entrevista-en-la-mina.html
 next_chapter_title: "Capítulo 14"
 ---
 

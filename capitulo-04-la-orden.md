@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 4
 title: "La orden"
-prev_chapter_url: /capitulo-03-voces-de-la-sierra.md
+prev_chapter_url: /capitulo-03-voces-de-la-sierra.html
 prev_chapter_title: "Capítulo 3"
-next_chapter_url: /capitulo-05-el-viaje-fatidico.md
+next_chapter_url: /capitulo-05-el-viaje-fatidico.html
 next_chapter_title: "Capítulo 5"
 ---
 

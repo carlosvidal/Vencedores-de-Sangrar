@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 6
 title: "Primeras sospechas"
 chapter_image: /img/capitulo-6.webp
-prev_chapter_url: /capitulo-05-el-viaje-fatidico.md
+prev_chapter_url: /capitulo-05-el-viaje-fatidico.html
 prev_chapter_title: "Capítulo 5"
-next_chapter_url: /capitulo-07-el-camino-de-montenegro.md
+next_chapter_url: /capitulo-07-el-camino-de-montenegro.html
 next_chapter_title: "Capítulo 7"
 ---
 

@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 21
 title: "El eco de un disparo"
-prev_chapter_url: /capitulo-20-el-precio-de-la-curiosidad.md
+prev_chapter_url: /capitulo-20-el-precio-de-la-curiosidad.html
 prev_chapter_title: "Capítulo 20"
-next_chapter_url: /capitulo-22-secretos-enterrados.md
+next_chapter_url: /capitulo-22-secretos-enterrados.html
 next_chapter_title: "Capítulo 22"
 ---
 

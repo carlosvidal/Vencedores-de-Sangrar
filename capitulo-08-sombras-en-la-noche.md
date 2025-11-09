@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 8
 title: "Sombras en la noche"
-prev_chapter_url: /capitulo-07-el-camino-de-montenegro.md
+prev_chapter_url: /capitulo-07-el-camino-de-montenegro.html
 prev_chapter_title: "Capítulo 7"
-next_chapter_url: /capitulo-09-la-noche-en-el-rancho-rosa.md
+next_chapter_url: /capitulo-09-la-noche-en-el-rancho-rosa.html
 next_chapter_title: "Capítulo 9"
 ---
 

@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 2
 title: "La carretera envuelta en niebla"
 chapter_image: /img/capitulo-2.webp
-prev_chapter_url: /capitulo-01-la-ultima-partida-de-vargas.md
+prev_chapter_url: /capitulo-01-la-ultima-partida-de-vargas.html
 prev_chapter_title: "Capítulo 1"
-next_chapter_url: /capitulo-03-voces-de-la-sierra.md
+next_chapter_url: /capitulo-03-voces-de-la-sierra.html
 next_chapter_title: "Capítulo 3"
 ---
 

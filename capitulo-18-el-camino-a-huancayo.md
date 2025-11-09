@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 18
 title: "El camino a Huancayo"
 chapter_image: /img/capitulo-18.webp
-prev_chapter_url: /capitulo-17-el-caso-cerrado.md
+prev_chapter_url: /capitulo-17-el-caso-cerrado.html
 prev_chapter_title: "Capítulo 17"
-next_chapter_url: /capitulo-19-nueva-ciudad-viejas-pesadillas.md
+next_chapter_url: /capitulo-19-nueva-ciudad-viejas-pesadillas.html
 next_chapter_title: "Capítulo 19"
 ---
 

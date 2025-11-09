@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 28
 title: "Sangre en el asfalto"
-prev_chapter_url: /capitulo-27-bloqueo-en-la-carretera.md
+prev_chapter_url: /capitulo-27-bloqueo-en-la-carretera.html
 prev_chapter_title: "Capítulo 27"
-next_chapter_url: /capitulo-29-fuego-cruzado.md
+next_chapter_url: /capitulo-29-fuego-cruzado.html
 next_chapter_title: "Capítulo 29"
 ---
 

@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 1
 title: "La última partida de Vargas"
 chapter_image: /img/capitulo-1.webp
-prev_chapter_url: /index.md
+prev_chapter_url: /
 prev_chapter_title: "Índice"
-next_chapter_url: /capitulo-02-la-carretera-envuelta-en-niebla.md
+next_chapter_url: /capitulo-02-la-carretera-envuelta-en-niebla.html
 next_chapter_title: "Capítulo 2"
 ---
 

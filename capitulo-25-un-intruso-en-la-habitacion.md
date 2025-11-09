@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 25
 title: "Un intruso en la habitación"
 chapter_image: /img/capitulo-25.webp
-prev_chapter_url: /capitulo-24-luces-camaras-verdad.md
+prev_chapter_url: /capitulo-24-luces-camaras-verdad.html
 prev_chapter_title: "Capítulo 24"
-next_chapter_url: /capitulo-26-conexiones-peligrosas.md
+next_chapter_url: /capitulo-26-conexiones-peligrosas.html
 next_chapter_title: "Capítulo 26"
 ---
 

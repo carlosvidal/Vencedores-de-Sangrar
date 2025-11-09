@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 11
 title: "El amanecer en el bosque de piedras"
 chapter_image: /img/capitulo-11.webp
-prev_chapter_url: /capitulo-10-madrugada-en-huayre.md
+prev_chapter_url: /capitulo-10-madrugada-en-huayre.html
 prev_chapter_title: "Capítulo 10"
-next_chapter_url: /capitulo-12-decision-en-la-puna.md
+next_chapter_url: /capitulo-12-decision-en-la-puna.html
 next_chapter_title: "Capítulo 12"
 ---
 

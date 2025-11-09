@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 15
 title: "El orador del pueblo"
 chapter_image: /img/capitulo-15.webp
-prev_chapter_url: /capitulo-14-la-entrevista-en-la-mina.md
+prev_chapter_url: /capitulo-14-la-entrevista-en-la-mina.html
 prev_chapter_title: "Capítulo 14"
-next_chapter_url: /capitulo-16-aguas-turbias.md
+next_chapter_url: /capitulo-16-aguas-turbias.html
 next_chapter_title: "Capítulo 16"
 ---
 

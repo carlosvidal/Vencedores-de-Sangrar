@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 33
 title: "La caja de Pandora"
 chapter_image: /img/capitulo-33.webp
-prev_chapter_url: /capitulo-32-lugar-de-la-memoria.md
+prev_chapter_url: /capitulo-32-lugar-de-la-memoria.html
 prev_chapter_title: "Capítulo 32"
-next_chapter_url: /capitulo-34-la-sombra-del-sicario.md
+next_chapter_url: /capitulo-34-la-sombra-del-sicario.html
 next_chapter_title: "Capítulo 34"
 ---
 

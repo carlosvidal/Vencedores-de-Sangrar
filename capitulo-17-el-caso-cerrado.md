@@ -3,9 +3,9 @@ layout: chapter
 chapter_number: 17
 title: "El caso cerrado"
 chapter_image: /img/capitulo-17.webp
-prev_chapter_url: /capitulo-16-aguas-turbias.md
+prev_chapter_url: /capitulo-16-aguas-turbias.html
 prev_chapter_title: "Capítulo 16"
-next_chapter_url: /capitulo-18-el-camino-a-huancayo.md
+next_chapter_url: /capitulo-18-el-camino-a-huancayo.html
 next_chapter_title: "Capítulo 18"
 ---
 

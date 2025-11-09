@@ -2,9 +2,9 @@
 layout: chapter
 chapter_number: 23
 title: "Estrellas de neón"
-prev_chapter_url: /capitulo-22-secretos-enterrados.md
+prev_chapter_url: /capitulo-22-secretos-enterrados.html
 prev_chapter_title: "Capítulo 22"
-next_chapter_url: /capitulo-24-luces-camaras-verdad.md
+next_chapter_url: /capitulo-24-luces-camaras-verdad.html
 next_chapter_title: "Capítulo 24"
 ---
 
