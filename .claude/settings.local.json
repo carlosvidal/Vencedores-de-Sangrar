@@ -13,7 +13,21 @@
       "Bash(./serve.sh:*)",
       "Bash(brew reinstall:*)",
       "Bash(gem install:*)",
-      "Bash(certified-update)"
+      "Bash(certified-update)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(pkill:*)",
+      "Bash(git restore:*)",
+      "Bash(killall:*)",
+      "Bash(gh run list:*)",
+      "Bash(gh repo view:*)",
+      "Bash(gh api:*)",
+      "Bash(git rm:*)",
+      "Read(//private/tmp/**)",
+      "Bash(cat:*)",
+      "Read(//tmp/hitchens-temp/_layouts/**)",
+      "Read(//tmp/hitchens-temp/_includes/**)"
     ],
     "deny": [],
     "ask": []
