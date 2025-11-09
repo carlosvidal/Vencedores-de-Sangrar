@@ -37,7 +37,7 @@ title: Vencedores de Sangrar
 * [Capítulo 30: La casa del poder]({{ site.baseurl }}/capitulo-30/)
 * [Capítulo 31: Encuentro en Lima]({{ site.baseurl }}/capitulo-31/)
 * [Capítulo 32: Lugar de la memoria]({{ site.baseurl }}/capitulo-32/)
-* [Capítulo 32: La caja de Pandora]({{ site.baseurl }}/capitulo-33/)
+* [Capítulo 33: La caja de Pandora]({{ site.baseurl }}/capitulo-33/)
 * [Capítulo 34: La sombra del sicario]({{ site.baseurl }}/capitulo-34/)
 * [Capítulo 35: Pactos oscuros]({{ site.baseurl }}/capitulo-35/)
 * [Capítulo 36: Tras las huellas del sicario]({{ site.baseurl }}/capitulo-36/)
