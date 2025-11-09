@@ -1,0 +1,64 @@
+/* Estilos personalizados para Vencedores de Sangrar */
+
+.chapter {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.chapter-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  border-bottom: 2px solid #e0e0e0;
+  padding-bottom: 1.5rem;
+}
+
+.chapter-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.chapter-number {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+  font-style: italic;
+}
+
+.chapter-content {
+  line-height: 1.8;
+  font-size: 1.1rem;
+  text-align: justify;
+}
+
+.chapter-content p {
+  margin-bottom: 1.5rem;
+}
+
+.chapter-navigation {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e0e0e0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.prev-chapter a,
+.next-chapter a {
+  padding: 0.75rem 1.5rem;
+  background-color: #3498db;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.prev-chapter a:hover,
+.next-chapter a:hover {
+  background-color: #2980b9;
+}
+
+.next-chapter {
+  margin-left: auto;
+}
