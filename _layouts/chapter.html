@@ -2,12 +2,13 @@
 layout: default
 ---
 
-{% include back-link.html %}
-
 <article class="post chapter" id="main" role="article" aria-label="Content">
   <header class="chapter-header">
     {% if page.chapter_number %}
-    <p class="chapter-number">Capítulo {{ page.chapter_number }}</p>
+    <div class="chapter-number-row">
+      <a href="{{ '/' | prepend: site.baseurl }}" class="home-link" title="Volver al índice">🏠</a>
+      <p class="chapter-number">Capítulo {{ page.chapter_number }}</p>
+    </div>
     {% endif %}
     {% if page.chapter_image %}
     <div class="chapter-image">

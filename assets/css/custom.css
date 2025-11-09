@@ -19,12 +19,30 @@
   border-radius: 4px;
 }
 
+.chapter-number-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.home-link {
+  font-size: 1.2em;
+  text-decoration: none;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+
+.home-link:hover {
+  opacity: 1;
+}
+
 .post p.chapter-number {
   font-size: 1.1em;
   color: #64644B;
   font-style: italic;
-  margin-top: -1em;
-  margin-bottom: 2em;
+  margin: 0;
   text-indent: 0;
   text-align: center;
 }
