@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 9
 title: "La noche en el Rancho Rosa"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-08-sombras-en-la-noche.html
 prev_chapter_title: "Capítulo 8"
 next_chapter_url: /capitulo-10-madrugada-en-huayre.html

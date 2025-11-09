@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 15
 title: "El orador del pueblo"
-author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-15.webp
 prev_chapter_url: /capitulo-14-la-entrevista-en-la-mina.html
 prev_chapter_title: "Capítulo 14"

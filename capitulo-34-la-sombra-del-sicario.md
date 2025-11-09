@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 34
 title: "La sombra del sicario"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-33-la-caja-de-pandora.html
 prev_chapter_title: "Capítulo 33"
 next_chapter_url: /capitulo-35-pactos-oscuros.html

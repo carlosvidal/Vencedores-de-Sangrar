@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 18
 title: "El camino a Huancayo"
-author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-18.webp
 prev_chapter_url: /capitulo-17-el-caso-cerrado.html
 prev_chapter_title: "Capítulo 17"

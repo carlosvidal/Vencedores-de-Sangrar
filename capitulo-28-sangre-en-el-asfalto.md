@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 28
 title: "Sangre en el asfalto"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-27-bloqueo-en-la-carretera.html
 prev_chapter_title: "Capítulo 27"
 next_chapter_url: /capitulo-29-fuego-cruzado.html

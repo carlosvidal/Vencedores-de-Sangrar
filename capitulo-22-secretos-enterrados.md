@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 22
 title: "Secretos Enterrados"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-21-el-eco-de-un-disparo.html
 prev_chapter_title: "Capítulo 21"
 next_chapter_url: /capitulo-23-estrellas-de-neon.html

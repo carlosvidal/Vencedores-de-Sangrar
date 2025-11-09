@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 32
 title: "Lugar de la memoria"
-author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-32.webp
 prev_chapter_url: /capitulo-31-encuentro-en-lima.html
 prev_chapter_title: "Capítulo 31"

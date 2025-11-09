@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 4
 title: "La orden"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-03-voces-de-la-sierra.html
 prev_chapter_title: "Capítulo 3"
 next_chapter_url: /capitulo-05-el-viaje-fatidico.html

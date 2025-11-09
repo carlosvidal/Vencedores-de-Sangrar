@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 17
 title: "El caso cerrado"
-author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-17.webp
 prev_chapter_url: /capitulo-16-aguas-turbias.html
 prev_chapter_title: "Capítulo 16"

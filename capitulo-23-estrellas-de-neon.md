@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 23
 title: "Estrellas de neón"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-22-secretos-enterrados.html
 prev_chapter_title: "Capítulo 22"
 next_chapter_url: /capitulo-24-luces-camaras-verdad.html

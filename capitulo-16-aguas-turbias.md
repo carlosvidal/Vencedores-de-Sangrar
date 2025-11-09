@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 16
 title: "Aguas turbias"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-15-el-orador-del-pueblo.html
 prev_chapter_title: "Capítulo 15"
 next_chapter_url: /capitulo-17-el-caso-cerrado.html

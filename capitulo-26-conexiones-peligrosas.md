@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 26
 title: "Conexiones peligrosas"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-25-un-intruso-en-la-habitacion.html
 prev_chapter_title: "Capítulo 25"
 next_chapter_url: /capitulo-27-bloqueo-en-la-carretera.html

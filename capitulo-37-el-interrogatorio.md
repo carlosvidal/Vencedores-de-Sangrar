@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 37
 title: "El interrogatorio"
-author: Carlos Martín Vidal Salcedo
 prev_chapter_url: /capitulo-36-tras-las-huellas-del-sicario.html
 prev_chapter_title: "Capítulo 36"
 next_chapter_url: /capitulo-38-revelaciones-en-sangrar.html

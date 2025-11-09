@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 24
 title: "Luces, cámaras, verdad"
-author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-24.webp
 prev_chapter_url: /capitulo-23-estrellas-de-neon.html
 prev_chapter_title: "Capítulo 23"

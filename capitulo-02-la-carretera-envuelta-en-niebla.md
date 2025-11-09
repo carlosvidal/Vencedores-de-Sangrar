@@ -2,7 +2,6 @@
 layout: chapter
 chapter_number: 2
 title: "La carretera envuelta en niebla"
-author: Carlos Martín Vidal Salcedo
 chapter_image: /img/capitulo-2.webp
 prev_chapter_url: /capitulo-01-la-ultima-partida-de-vargas.html
 prev_chapter_title: "Capítulo 1"
