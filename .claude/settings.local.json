@@ -36,7 +36,10 @@
       "Bash(fi)",
       "Bash(done)",
       "Bash(if [ -f \"capitulo-$chapter/capitulo-$chapter.webp\" ])",
-      "Bash(echo:*)"
+      "Bash(echo:*)",
+      "Bash(git checkout:*)",
+      "Bash(python3:*)",
+      "Bash(for file in capitulo-*.md)"
     ],
     "deny": [],
     "ask": []
