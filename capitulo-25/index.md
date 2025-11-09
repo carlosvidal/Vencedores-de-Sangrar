@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 25
 title: "Un intruso en la habitación"
+chapter_image: /capitulo-25/capitulo-25.webp
 permalink: /capitulo-25/
 prev_chapter_url: /capitulo-24/
 prev_chapter_title: "Capítulo 24: Luces, cámaras, verdad"

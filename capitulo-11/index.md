@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 11
 title: "El amanecer en el bosque de piedras"
+chapter_image: /capitulo-11/capitulo-11.webp
 permalink: /capitulo-11/
 prev_chapter_url: /capitulo-10/
 prev_chapter_title: "Capítulo 10: Madrugada en Huayre"

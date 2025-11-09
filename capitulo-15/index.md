@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 15
 title: "El orador del pueblo"
+chapter_image: /capitulo-15/capitulo-15.webp
 permalink: /capitulo-15/
 prev_chapter_url: /capitulo-14/
 prev_chapter_title: "Capítulo 14: La entrevista en la mina"

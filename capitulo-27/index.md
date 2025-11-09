@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 27
 title: "Bloqueo en la carretera"
+chapter_image: /capitulo-27/capitulo-27.webp
 permalink: /capitulo-27/
 prev_chapter_url: /capitulo-26/
 prev_chapter_title: "Capítulo 26: Conexiones peligrosas"

@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 36
 title: "Tras las huellas del sicario"
+chapter_image: /capitulo-36/capitulo-36.webp
 permalink: /capitulo-36/
 prev_chapter_url: /capitulo-35/
 prev_chapter_title: "Capítulo 35: Pactos oscuros"

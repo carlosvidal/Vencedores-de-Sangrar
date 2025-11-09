@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 19
 title: "Nueva ciudad, viejas pesadillas"
+chapter_image: /capitulo-19/capitulo-19.webp
 permalink: /capitulo-19/
 prev_chapter_url: /capitulo-18/
 prev_chapter_title: "Capítulo 18: El camino a Huancayo"

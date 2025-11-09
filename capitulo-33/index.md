@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 33
 title: "La caja de Pandora"
+chapter_image: /capitulo-33/capitulo-33.webp
 permalink: /capitulo-33/
 prev_chapter_url: /capitulo-32/
 prev_chapter_title: "Capítulo 32: Lugar de la memoria"

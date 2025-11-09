@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 18
 title: "El camino a Huancayo"
+chapter_image: /capitulo-18/capitulo-18.webp
 permalink: /capitulo-18/
 prev_chapter_url: /capitulo-17/
 prev_chapter_title: "Capítulo 17: El caso cerrado"

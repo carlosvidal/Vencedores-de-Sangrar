@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 14
 title: "La entrevista en la mina"
+chapter_image: /capitulo-14/capitulo-14.webp
 permalink: /capitulo-14/
 prev_chapter_url: /capitulo-13/
 prev_chapter_title: "Capítulo 13: Llamada desde la selva"

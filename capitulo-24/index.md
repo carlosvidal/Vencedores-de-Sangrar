@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 24
 title: "Luces, cámaras, verdad"
+chapter_image: /capitulo-24/capitulo-24.webp
 permalink: /capitulo-24/
 prev_chapter_url: /capitulo-23/
 prev_chapter_title: "Capítulo 23: Estrellas de neón"

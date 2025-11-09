@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 29
 title: "Fuego cruzado"
+chapter_image: /capitulo-29/capitulo-29.webp
 permalink: /capitulo-29/
 prev_chapter_url: /capitulo-28/
 prev_chapter_title: "Capítulo 28: Sangre en el asfalto"

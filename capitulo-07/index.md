@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 7
 title: "El camino de Montenegro"
+chapter_image: /capitulo-07/capitulo-07.webp
 permalink: /capitulo-07/
 prev_chapter_url: /capitulo-06/
 prev_chapter_title: "Capítulo 6: Primeras sospechas"

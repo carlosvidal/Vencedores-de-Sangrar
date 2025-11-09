@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 32
 title: "Lugar de la memoria"
+chapter_image: /capitulo-32/capitulo-32.webp
 permalink: /capitulo-32/
 prev_chapter_url: /capitulo-31/
 prev_chapter_title: "Capítulo 31: Encuentro en Lima"

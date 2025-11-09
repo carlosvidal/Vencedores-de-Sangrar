@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 17
 title: "El caso cerrado"
+chapter_image: /capitulo-17/capitulo-17.webp
 permalink: /capitulo-17/
 prev_chapter_url: /capitulo-16/
 prev_chapter_title: "Capítulo 16: Aguas turbias"

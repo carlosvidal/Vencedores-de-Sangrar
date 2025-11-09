@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 30
 title: "La casa del poder"
+chapter_image: /capitulo-30/capitulo-30.webp
 permalink: /capitulo-30/
 prev_chapter_url: /capitulo-29/
 prev_chapter_title: "Capítulo 29: Fuego cruzado"

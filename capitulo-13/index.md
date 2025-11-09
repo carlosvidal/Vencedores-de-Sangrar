@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 13
 title: "Llamada desde la selva"
+chapter_image: /capitulo-13/capitulo-13.webp
 permalink: /capitulo-13/
 prev_chapter_url: /capitulo-12/
 prev_chapter_title: "Capítulo 12: Decisión en la puna"

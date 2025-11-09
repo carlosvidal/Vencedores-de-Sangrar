@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 6
 title: "Primeras sospechas"
+chapter_image: /capitulo-06/capitulo-06.webp
 permalink: /capitulo-06/
 prev_chapter_url: /capitulo-05/
 prev_chapter_title: "Capítulo 5: El viaje fatídico"

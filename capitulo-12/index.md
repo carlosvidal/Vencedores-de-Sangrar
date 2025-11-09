@@ -2,6 +2,7 @@
 layout: chapter
 chapter_number: 12
 title: "Decisión en la puna"
+chapter_image: /capitulo-12/capitulo-12.webp
 permalink: /capitulo-12/
 prev_chapter_url: /capitulo-11/
 prev_chapter_title: "Capítulo 11: El amanecer en el bosque de piedras"
