@@ -6,26 +6,26 @@ layout: default
 
 <article class="post chapter" id="main" role="article" aria-label="Content">
   <header class="chapter-header">
-    <h1 class="divided">{{ page.title }}</h1>
     {% if page.chapter_number %}
     <p class="chapter-number">Capítulo {{ page.chapter_number }}</p>
     {% endif %}
+    <h1 class="divided">{{ page.title }}</h1>
   </header>
 
-  <div class="post-content chapter-content">
-    {{ content }}
-  </div>
+  <div class="post-content chapter-content">{{ content }}</div>
 
   <nav class="chapter-navigation">
     {% if page.prev_chapter_url %}
     <div class="prev-chapter">
-      <a href="{{ page.prev_chapter_url | relative_url }}">&larr; {{ page.prev_chapter_title }}</a>
+      <a href="{{ page.prev_chapter_url | relative_url }}"
+        >&larr; {{ page.prev_chapter_title }}</a
+      >
     </div>
-    {% endif %}
-
-    {% if page.next_chapter_url %}
+    {% endif %} {% if page.next_chapter_url %}
     <div class="next-chapter">
-      <a href="{{ page.next_chapter_url | relative_url }}">{{ page.next_chapter_title }} &rarr;</a>
+      <a href="{{ page.next_chapter_url | relative_url }}"
+        >{{ page.next_chapter_title }} &rarr;</a
+      >
     </div>
     {% endif %}
   </nav>
