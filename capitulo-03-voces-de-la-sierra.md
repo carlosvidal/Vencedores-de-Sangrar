@@ -9,102 +9,90 @@ next_chapter_url: /capitulo-04-la-orden.html
 next_chapter_title: "Capítulo 4"
 ---
 
-El sol se alzaba perezosamente sobre Huayllay, sus primeros rayos resbalando por los techos de calamina como dedos dorados que señalaban el comienzo de un nuevo día. A cuatro mil setecientos metros sobre el nivel del mar, el amanecer llegaba cortante y frío, con un aire tan delgado que hacía que cada respiración fuera un recordatorio consciente de la altura. El cielo, de un azul intenso que solo se encuentra en las alturas andinas, se extendía inmaculado sobre el pueblo, contrastando dramáticamente con las nubes de polvo rojizo que se elevaban desde la mina.
+Huayllay, cuatro mil setecientos metros sobre el nivel del mar. El amanecer llegaba cortante y frío, con ese aire delgado que recordaba a cada respiro la altura. La Sargento María Mamani emergió de su casa de adobe en las afueras del pueblo, el uniforme pulcramente planchado, el cabello negro recogido en un moño apretado que le daba ese aire de autoridad necesario en un mundo de hombres.
 
-En la plaza central, don Aurelio, un anciano de rostro curtido por setenta inviernos en la puna, barría metódicamente la entrada de su chicharronería. Sus movimientos, lentos pero precisos, seguían el mismo patrón que había mantenido durante los últimos cuarenta años. La escoba de paja, gastada por el uso constante, susurraba contra el pavimento como contando secretos de otros tiempos.
+Mientras caminaba hacia la plaza, su mano derecha buscó automáticamente el bolsillo de la chaqueta. Ahí estaba, como siempre: el reloj de bolsillo de su padre, frío y muerto desde inicios de los noventa. Un peso familiar que la acompañaba cada día, recordándole promesas incumplidas. "Pronto lo arreglaré", se decía cada mañana desde hacía meses.
 
-El aroma del chicharrón comenzaba a flotar en el aire frío de la mañana, mezclándose con el persistente olor a mineral que emanaba de los camiones de la mina. Don Aurelio se detuvo un momento, apoyándose en su escoba mientras observaba el convoy de vehículos pesados que ya iniciaba su recorrido diario. Sus ojos, arrugados por décadas de mirar el horizonte, seguían el movimiento de los camiones con una mezcla de resignación y desdén.
+La plaza central de Huayllay amanecía envuelta en una neblina tenue que el sol comenzaba a disipar. El contraste era brutal: de un lado, los negocios de siempre —la chicharronería de don Aurelio, la panadería de Luzmila que llevaba tres generaciones vendiendo el mismo pan, el puesto de periódicos donde apenas llegaban diarios de hace dos días—. Del otro lado, visible a través de la bruma, el complejo minero de Palcabamba se alzaba como una cicatriz de metal y concreto en el cerro, sus estructuras modernas burlándose de las casas de adobe y calamina.
 
-—Otro día, otra nube de polvo —murmuró para sí mismo, observando cómo el polvillo rojizo se asentaba sobre los plastos que había colocado en el escaparate. Con un suspiro, sacó un trapo y comenzó a limpiarlos uno por uno.
+Don Aurelio ya barría la entrada de su local con una escoba de paja gastada por los años. Setenta inviernos en la puna habían curtido su rostro hasta convertirlo en un mapa de arrugas, pero sus movimientos seguían el mismo patrón de las últimas cuatro décadas.
 
-—Antes no era así —le comentó a nadie en particular, aunque su voz llevaba el peso de los recuerdos—. Antes el aire olía a ichu y a tierra mojada. Ahora solo huele a diésel y a mineral.
+—Buenos días, don Aurelio. Un pan con chicharrón, por favor.
 
-Al otro lado de la plaza, Luzmila abrió las puertas de la única panadería del pueblo, un negocio que su familia había mantenido por tres generaciones. El aroma del pan recién horneado luchaba valientemente contra el persistente olor a combustible, como un último bastión de la vida tradicional resistiéndose a los cambios que la mina había traído consigo.
+El viejo empezó a preparar el pedido, sus ojos siguiendo el movimiento nervioso de la mano de Mamani hacia el bolsillo.
 
-—¡Pan caliente! —gritó con la misma energía de siempre, mientras un grupo de mineros en el turno de la mañana se acercaba. Sus cascos amarillos brillaban bajo los rayos del sol, formando una procesión que se había vuelto tan común como el paso de las estaciones.
+—¿Otra vez tocándose el bolsillo, Sargento? ¿Cuándo va a arreglar ese reloj de su padre?
 
-En el interior de la panadería, Roberto, el hijo mayor de Luzmila, acomodaba los panes recién salidos del horno. A sus veinticinco años, representaba la nueva generación de Huayllay, atrapada entre el respeto por las tradiciones y la seducción del progreso prometido por la mina.
+Mamani sacó la mano como si la hubieran pillado en falta.
 
-—Mamá —llamó desde el interior, su voz mezclándose con el tintineo de las bandejas metálicas—, ¿has pensado en lo que te dije? La mina está contratando para la cocina. El sueldo es bueno, y tiene todos los beneficios. Seguro médico, gratificaciones...
+—Pronto, don Aurelio. Tengo que ir donde don Justino en Huayre. Pero el hombre solo abre los martes.
 
-—Hijo, esta panadería ha estado en nuestra familia por generaciones —Luzmila frunció el ceño, sus manos deteniéndose momentáneamente en medio de entregar el pan a un cliente—. Tu abuelo horneó pan aquí hasta el día que murió. Tu padre... —Su voz se quebró ligeramente—. Tu padre siempre decía que el pan es más que comida, es el corazón de una comuni...
+—Eso viene diciendo hace meses, Sargento. —Don Aurelio envolvió el sánguche en una bolsa de plástico transparente, de esas baratas que usan en todos los puestos de comida—. A este paso, el reloj se va a arreglar solo de puro aburrimiento.
 
-Se interrumpió al ver pasar un lujosa camioneta con lunas polarizadas, su pintura negra brillando inmaculada a pesar del polvo omnipresente que cubría todo en Huayllay.
+Mamani tomó el paquete y lo sopesó en la mano. Este sería su único alimento del día, un ritual de supervivencia que había perfeccionado con los años: un mordisco cada dos horas, masticar despacio, engañar al estómago con paciencia. Le dio la primera mordida ahí mismo, pequeña, apenas para sentir el crujido del pan recién tostado y la grasa del chicharrón en la lengua. El sabor a ajo y comino la transportó por un segundo a tiempos mejores. Luego guardó el resto en el bolsillo izquierdo, lejos del reloj.
 
-—Ahí va el ingeniero jefe —murmuró Roberto, asomándose a la puerta—. Dicen que viene de Lima. Gana más en un mes que nosotros en todo el año.
+—Esto me durará todo el día —dijo, como cada mañana.
 
-Luzmila observó el vehículo alejarse, dejando tras de sí una estela de polvo y promesas de prosperidad.
+Y era verdad. En la comisaría todos conocían su ritual del pan con chicharrón, pero nadie se atrevía a comentar. Era su manera de estirar el sueldo miserable: cuatrocientos soles después de pagar el cuarto alquilado y enviar algo a su madre vieja en Cusco.
 
-—El dinero no lo es todo, hijo —dijo suavemente—. Hay cosas que no tienen precio.
+Mientras caminaba hacia la comisaría, observó cómo el pueblo despertaba a su rutina partida. Los mineros del turno de día ya formaban fila en el paradero, sus cascos amarillos brillando bajo el sol naciente. Las señoras abrían sus tienditas, acomodando productos que el polvo de la mina volvería a cubrir en pocas horas. Un grupo de niños con uniformes escolares gastados pero limpios corría hacia la escuela, algunos llevando casquitos de juguete, soñando ya con trabajar en la mina.
 
-En ese momento, un taxi colectivo se detuvo bruscamente frente a la panadería. Del auto bajó una joven de no más de 18 años, con una maleta pequeña y ojos que reflejaban una mezcla de esperanza y miedo.
+La comisaría era un edificio de un solo piso, concreto sin pintar que el tiempo y la altura habían agrietado. Las ventanas pequeñas dejaban entrar una luz mortecina. La bandera peruana en el techo ondeaba descolorida, sus colores lavados por años de sol implacable y lluvias ácidas. Adentro, el frío de la puna se colaba por cada rendija, mezclándose con el olor característico a desinfectante barato, papel viejo y esa humedad que nunca se iba del todo.
 
-—¿El Rancho Rosa? —preguntó tímidamente a Luzmila, su voz apenas audible sobre el ruido de los camiones.
+Sobre su escritorio de madera carcomida, el reloj de pared marcaba eternamente las 3:17. Llevaba meses detenido en esa hora exacta. Nadie lo había arreglado, nadie lo arreglaría. Era casi poético, pensó Mamani: ella cargando un reloj muerto en el bolsillo, trabajando bajo otro igualmente inútil. El tiempo detenido en la sierra mientras el mundo seguía girando allá abajo, en Lima.
 
-Antes de que la panadera pudiera responder, una mujer mayor se acercó rápidamente. Llevaba un chal tejido de colores brillantes y su rostro mostraba las arrugas profundas de quien ha vivido lo suficiente para reconocer el peligro cuando lo ve.
+—Buenos días, Sargento. —El cabo Quispe entró con dos tazas de mate de coca humeante, el vapor subiendo como pequeñas almas—. ¿Sabe la novedad? Mi Rosita fue ayer a Cerro de Pasco para su control prenatal. Dice que en tres días, con la ecografía, sabremos si es niño o niña.
 
-—El Rancho Rosa está en Huayre, linda —dijo la mujer mayor, su voz cargada de una preocupación apenas disimulada—. Aquí no hay de eso.
+Quispe era buen muchacho: veintiséis años, tres en la policía, casado hace uno. Su entusiasmo aún no había sido aplastado por la rutina gris de Huayllay.
 
-La joven pareció confundida y algo asustada. La mujer mayor la tomó del brazo suavemente, sus ojos encontrándose con los de Luzmila en un entendimiento silencioso.
+—Qué buena noticia, Quispe. Ya era hora de que supieran.
 
-—Ven conmigo —dijo la mujer—. Te explicaré cómo llegar... y tal vez podamos hablar de otras opciones.
+—Rosita jura que es niña, dice que tiene el presentimiento. Pero yo sé que es varón, lo siento aquí. —Se tocó el pecho—. Sargento... hay algo que Rosita y yo queríamos pedirle. Es algo especial.
 
-Luzmila y su hijo intercambiaron miradas de preocupación mientras veían a la joven alejarse con la mujer mayor.
+—Ay, Quispe, más lento que una llama coja eres. —Mamani sonrió, una sonrisa genuina que iluminó su rostro cansado—. Si no me lo pides tú ya mismo, le voy a decir a Rosita que me nombre madrina ella solita.
 
-—Otra más —suspiró Luzmila—. ¿Cuándo van a hacer algo las autoridades?
+Ambos rieron. Era uno de esos momentos raros de alegría que hacían tolerable el trabajo en este pueblo olvidado. Entonces el teléfono sonó, cortando la risa como un cuchillo. El aparato negro y pesado, de esos antiguos de disco, parecía un cuervo graznando malas noticias.
 
-Roberto sacudió la cabeza.
+—Comisaría de Huayllay, Sargento Mamani al habla.
 
-—Las autoridades están muy ocupadas contando el dinero de la mina, mamá. ¿Quién va a preocuparse por una chica más o una menos?
+—Buenos días, Sargento. —La voz al otro lado sonaba tensa, con ese nerviosismo mal disimulado de quien esconde algo—. Le hablo de la mina Palcabamba. Estamos... preocupados por uno de nuestros colaboradores, el doctor Ernesto Vargas. Debía llegar esta mañana temprano para una reunión crucial y no ha aparecido.
 
-En el otro extremo del pueblo, cerca de los campos de maca, el viejo Saturnino observaba con tristeza cómo una retroexcavadora de la mina comenzaba a trabajar en lo que antes era tierra de cultivo. Sus manos, nudosas y callosas por décadas de trabajar la tierra, se apretaban en puños impotentes mientras el rugido de la maquinaria ahogaba el suave susurro del viento entre el ichu.
+Mamani enderezó la espalda, su instinto policial activándose como un perro que huele sangre.
 
-—Dicen que encontraron una nueva veta —le comentó a su nieto, Miguel, que estaba a su lado. El joven, de apenas quince años, observaba la escena con una mezcla de fascinación y preocupación—. Pronto todo esto será parte de la mina.
+—¿Está completamente seguro de que venía para acá?
 
-—Pero abuelo —protestó Miguel, sus ojos siguiendo el movimiento hipnótico de la retroexcavadora—, ¿qué pasará con nuestras tierras? ¿Con la maca?
+—Absolutamente seguro. Salió de Lima en el bus de las seis de la mañana. Llevaba un maletín negro con documentos importantes. Muy importantes. El doctor Vargas es un hombre extremadamente puntual, nunca falta a las reuniones. Nunca.
 
-Saturnino sacudió la cabeza, su poncho de lana multicolor ondeando en la brisa matutina.
-—La mina da trabajo, dicen —continuó, su voz cargada de amargura—. Pero se lleva mucho más de lo que da. Mira esos cerros, hijo. Donde antes crecía la maca, ahora solo hay tierra removida y maquinaria. Y dicen que quieren expandirse aún más.
+El énfasis en el maletín no pasó desapercibido. Lo mencionaba como si fuera más importante que el hombre mismo.
 
-—Pero abuelo —protestó Miguel, repitiendo argumentos que había escuchado en la escuela—, algunos dicen que es por el progreso, que traerá más dinero al pueblo. El profesor dice que la minería es el futuro del Perú.
+—Mire, señor, voy a ser franca con usted. No es la primera vez que un ejecutivo se "pierde" por estos lados. Hay ciertos lugares de esparcimiento en la zona, si me entiende. El Rancho Rosa en Huayre, por ejemplo. A veces los señores de Lima se distraen.
 
-Saturnino soltó una risa seca que sonó más como un sollozo.
+Hubo una pausa incómoda, el silencio llenándose de implicaciones.
 
-—¿Progreso para quién? ¿Para los que tendrán que dejar sus tierras? ¿Para los que beberán agua contaminada? —Hizo una pausa, sus ojos fijos en la retroexcavadora que seguía mordiendo la tierra—. No, hijo. Esto no es progreso, es codicia disfrazada de desarrollo.
+—El doctor Vargas no es ese tipo de persona. —La voz sonaba casi ofendida—. Por favor, Sargento, es crucial que lo encontremos. O al menos... el maletín. Contiene documentos muy sensibles para las operaciones.
 
-Se quedaron en silencio, observando cómo la máquina continuaba su trabajo implacable. A lo lejos, un grupo de llamas pastaba indiferente al ruido y al polvo, últimos vestigios de una forma de vida que parecía desvanecerse tan rápidamente como la niebla matutina.
+Otra vez el maletín. Definitivamente más importante que el hombre.
 
-La Sargento María Mamani emergió de su modesta vivienda, una pequeña casa de adobe ubicada en las afueras de Huayllay. Aunque humilde, la casa irradiaba un aire de orgullo y cuidado, con sus paredes recién pintadas de un blanco brillante y macetas de flores multicolores adornando la entrada.
-Con su uniforme pulcramente planchado y su cabello oscuro recogido en un moño ajustado, Mamani irradiaba una mezcla de autoridad y empatía. Sus ojos, oscuros y penetrantes, escaneaban constantemente su entorno, un hábito adquirido tras años de servicio en la policía.
+—¿Qué clase de documentos, si se puede saber?
 
-Mientras caminaba hacia la comisaría, metió la mano en el bolsillo de su chaqueta, sintiendo el frío metal del reloj de su padre. Era un antiguo reloj de bolsillo, una reliquia familiar que  Mamani lo llevaba siempre consigo, como un talismán y un recordatorio de la promesa que había hecho de llevar justicia a un país aún marcado por las cicatrices de la violencia.
+—Eso es estrictamente confidencial. Pero son vitales, créame. Vitales para las operaciones de la mina. Por favor, cualquier información será bien recompensada.
 
-En el camino, Mamani se detuvo frente a la chicharronería de don Aurelio.
+—Haré algunas averiguaciones —cortó Mamani, incómoda con la insinuación del soborno—. Si sé algo, les aviso. Pero no se hagan muchas ilusiones.
 
-—Buenos días, don Aurelio —saludó con una sonrisa cálida—. Un pan con chicharrón, por favor.
-Don Aurelio, quien no pudo evitar notar la mano moviéndose en el bolsillo y quien ya conocía la rutina que se repetía al menos una vez a la semana desde hacía tiempo, la miró con curiosidad mientras preparaba su pedido.
+Colgó con más fuerza de la necesaria. El auricular resonó contra la base. Quispe la miraba expectante desde su escritorio.
 
-—Sargento, ¿otra vez con el reloj? ¿Cuándo lo va a llevar a reparar?
+—Mineros preocupados por un maletín —murmuró Mamani, tamborileando los dedos sobre la madera rayada—. Les importa más los papeles que la persona.
 
-Mamani sonrió débilmente.
+—¿Qué va a hacer, Sargento?
 
-—Pronto, don Aurelio. Tengo que ir a Huancayo o a Lima para eso.
+Mamani se levantó, ajustándose el cinturón donde colgaba su revólver reglamentario, un Smith & Wesson .38 tan viejo como confiable. Sacó el sánguche del bolsillo, le dio el segundo mordisco del día —las nueve en punto, tocaba— y masticó lentamente antes de guardarlo.
 
-Tomó el sánguche envuelto en una bolsa de plástico y le dio un pequeño mordisco antes de guardarlo en su bolsillo.
+—Voy a dar una vuelta por el pueblo, hacer algunas preguntas. Si alguien llama, estoy investigando una desaparición.
 
-—Esto me durará todo el día —comentó.
+Salió a la calle. El sol ya calentaba con fuerza, pero el viento seguía siendo cortante, ese viento de puna que pela la cara y reseca los labios. Los camiones de la mina subían vacíos y bajaban cargados, un río interminable de metal y mineral. Cada viaje dejaba su estela de polvo rojizo que se metía en los pulmones y teñía todo de un color óxido enfermizo.
 
-A lo largo de la mañana, mientras Mamani realizaba sus rondas por el pueblo, la gente la veía sacar ocasionalmente el sánguche para darle un mordisco. Algunos comentaban en voz baja sobre cómo la Sargento parecía vivir de ese único alimento.
+Algo no cuadraba en todo esto. La voz nerviosa del tipo de la mina, la insistencia obsesiva en el maletín, el hecho de que Vargas desapareciera en el trayecto. Si ampliaba la búsqueda hasta Huayre, podría aprovechar para pasar donde don Justino. Mañana era martes, el único día que el viejo relojero abría su taller. Por fin podría arreglar el reloj de su padre.
 
-Cuando el sol comenzaba a quemar con más fuerza, Mamani se encontró de nuevo en la plaza. Su sánguche, ahora reducido a la mitad, volvió a su bolsillo junto al viejo reloj de su padre.
-—Las cosas han cambiado mucho por aquí, Sargento —comentó don Aurelio, a la vez que bajaba el toldo de su puesto—. Y no todo para bien.
+Tocó el reloj en su bolsillo, el metal frío contra sus dedos callosos. Su padre solía decir que el tiempo siempre dice la verdad, solo hay que saber esperar. Pero Mamani nunca había sido buena esperando. Era mejor buscando, escarbando, sacando la verdad a la luz como quien desentierra papas.
 
-Mamani asintió, su mirada recorriendo la plaza. El contraste entre el campamento minero y las casas humildes, entre los anuncios de trabajo en la mina y los campos de cultivo abandonados, era más evidente que nunca. En el aire flotaba una mezcla de esperanza y resignación, de progreso y pérdida.
-Un grupo de niños jugaba cerca del monumento central, sus risas mezclándose con el rugido constante de los camiones mineros. Vestían uniformes escolares gastados pero limpios, y algunos llevaban cascos de minero de juguete, un recordatorio de cómo la mina había penetrado hasta en los juegos infantiles.
-—¿Sabe qué es lo más triste, Sargento? —continuó don Aurelio, su voz apenas audible sobre el ruido del tráfico—. Ya nadie quiere aprender los oficios tradicionales. Todos quieren trabajar en la mina. Dicen que es más fácil ganar dinero allí que pasarse años cocinando chicharrones o cultivando maca.
-Mamani observó cómo un nuevo convoy de camiones pasaba frente a ellos, sus ruedas enormes levantando nubes de polvo que obligaban a los transeúntes a cubrirse la boca y los ojos.
-—El progreso tiene muchas caras, don Aurelio —respondió finalmente—. Algunas brillan como el oro, otras... otras son más oscuras que el socavón más profundo.
-
-Con un suspiro, Mamani se dirigió hacia la comisaría, esperando que se presentase algo interesante por hacer. Su mano tocó el sánguche en su bolsillo, recordándole que aún le quedaba un largo día por delante. El reloj de su padre pesaba junto al pan, como un recordatorio constante de que el tiempo, al igual que el pueblo, seguía su marcha inexorable hacia un futuro incierto.
-
-Mientras caminaba, el sol de media mañana proyectaba su sombra sobre el pavimento polvoriento, una silueta solitaria contra el telón de fondo de una comunidad en transformación. En algún lugar en la distancia, una explosión controlada en la mina sacudió ligeramente el suelo, como un latido artificial en el corazón herido de la sierra.
+En algún lugar entre Lima y Huayllay, algo le había pasado a ese tal Ernesto Vargas. Y ella iba a descubrir qué, aunque tuviera que remover cada piedra de estos cerros para encontrarlo.

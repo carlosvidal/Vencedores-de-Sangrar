@@ -18,7 +18,6 @@ A medida que Mamani se acerca a la verdad, descubre que su propia historia está
 * [Capítulo 3: Voces de la sierra]({{ site.baseurl }}/capitulo-03-voces-de-la-sierra.html)
 * [Capítulo 4: La orden]({{ site.baseurl }}/capitulo-04-la-orden.html)
 * [Capítulo 5: El viaje fatídico]({{ site.baseurl }}/capitulo-05-el-viaje-fatidico.html)
-* [Capítulo 6: Primeras sospechas]({{ site.baseurl }}/capitulo-06-primeras-sospechas.html)
 * [Capítulo 7: El camino de Montenegro]({{ site.baseurl }}/capitulo-07-el-camino-de-montenegro.html)
 * [Capítulo 8: Sombras en la noche]({{ site.baseurl }}/capitulo-08-sombras-en-la-noche.html)
 * [Capítulo 9: La noche en el Rancho Rosa]({{ site.baseurl }}/capitulo-09-la-noche-en-el-rancho-rosa.html)

@@ -9,67 +9,72 @@ next_chapter_url: /capitulo-03-voces-de-la-sierra.html
 next_chapter_title: "Capítulo 3"
 ---
 
-La carretera serpenteaba como una cicatriz gris a través de la Cordillera de la Viuda, ascendiendo vertiginosamente entre la neblina que cubría las montañas. El asfalto húmedo brillaba tenuemente bajo un cielo plomizo, mientras el viento helado silbaba entre las rocas, trayendo consigo el aroma a ichu y tierra mojada.
+PE-20A, altura del puente Santillán. Cuatro mil doscientos metros sobre el nivel del mar. La neblina era tan espesa que el oficial Torres apenas distinguía los vehículos hasta que los tenía encima.
 
-—Central, aquí unidad Sierra-3 —murmuró el oficial Torres por la radio mientras ajustaba el cuello de su casaca reglamentaria contra el frío cortante de la puna—. Tengo una treinta-cuarenta-cinco en la PE-20A, altura del puente Santillán. Bus varado, posible colisión. Solicito apoyo.
+—Central, aquí Sierra-3 —habló por radio mientras se subía el cuello de la casaca—. Accidente de tránsito, bus interprovincial varado.
 
-La radio crepitó con estática antes de que una voz respondiera: —Copiado Sierra-3. Mantenga su posición.
+—Copiado Sierra-3.
 
-Su compañero, el suboficial Ramírez, soltó una risa seca mientras detenía a otro vehículo.
+Su compañero Ramírez revisaba papeles a otro conductor.
 
-—¿Vencedores de Sángrar? Más bien perdedores desangrados, porque así terminan muchos acá arriba —respondió, refiriéndose al nombre de la carretera y señalando el abismo que se perdía en la niebla—. Y hablando de sangre, ¿viste cómo quedó ese bus?
+—¿Vencedores de Sángrar? —se rio—. Más bien perdedores desangrados, porque así terminan varios acá arriba.
 
-A unos metros de ellos, un autobús interprovincial permanecía inmóvil, su frente abollado testimonio mudo del accidente. Una veintena de pasajeros desorientados rodeaban el vehículo, sus voces mezclándose en una cacofonía de quejas que el viento helado dispersaba.
+El bus de Transportes La Cruz bloqueaba media pista, el parachoques abollado. Una veintena de pasajeros rodeaba al chofer, un gordo que sudaba pese al frío de la puna.
 
-El chofer del bus, un hombre fornido cuyo polo de la empresa "Transportes La Cruz" estaba empapado de sudor a pesar del frío, gesticulaba enfáticamente mientras discutía con un grupo de pasajeros especialmente molestos.
+—¡Les digo que fue una vaca! —gritaba el chofer—. Salió de la neblina.
 
-—¡Les digo que fue una vaca, carajo! —insistía, su voz quebrándose por la desesperación—. ¡Salió de la nada, como un fantasma en la neblina!
+—¿Qué vaca a esta altura, baboso? —respondió un pasajero con lentes—. Aquí solo hay llamas.
 
-—¿Vaca? ¡Si estamos a casi de cuatro mil metros de altura, baboso! —replicó un pasajero con lentes y aire de maestro de escuela—. ¡Aquí solo hay llamas y alpacas!
+Entre el tumulto, Ernesto Vargas destacaba como una mancha de tinta en papel blanco. Traje italiano, maletín de cuero negro, zapatos de mil dólares. El soroche lo hacía jadear mientras se acercaba a Torres.
 
-La ironía de la situación no pasaba desapercibida para nadie que pudiera ver la inscripción desgastada en la parte trasera del bus: "Encontramos nuestro destino por los caminos que tomamos". Debajo, apenas legible, el eslogan de la empresa: "Tu seguridad es nuestra prioridad".
+—Jefe, necesito llegar a Palcabamba urgente. —Deslizó un billete de cincuenta soles en el bolsillo del policía—. Es importante.
 
-Entre la multitud de pasajeros varados, Ernesto Vargas destacaba como un pulgar adolorido. Su traje gris de marca italiana y su maletín de cuero negro lo marcaban como un forastero en estas alturas. Con el rostro enrojecido por una mezcla de ira y el aire enrarecido, se abrió paso hacia uno de los policías.
+Torres sintió el papel pero no cambió su expresión.
 
-—Oiga, jefe —dijo en voz baja, inclinándose cerca del oficial Torres—. Necesito llegar a Palcabamba urgente. Es un asunto de vida o muerte. ¿No me puede conseguir un transporte?
-Mientras hablaba, Vargas deslizó discretamente un billete de cincuenta soles en el bolsillo del policía. Torres tosió, una mirada de complicidad cruzando su rostro curtido por el viento de la puna.
+—Ya, ingeniero. Vamos a ver.
 
-—Ya, ya, ingeniero —respondió, sus ojos moviéndose nerviosamente—. Déjeme ver qué puedo hacer.
-En ese momento, un Toyota Yaris negro, modificado con alerones innecesarios y lunas polarizadas, se acercó al control policial. No era el único; varios vehículos similares formaban una fila irregular en la carretera. Estos taxis colectivos, parte fundamental del transporte informal en las rutas andinas, representaban una opción rápida pero arriesgada para los viajeros.
-El primer oficial detuvo al Yaris con un gesto brusco.
+Un Toyota Yaris negro se acercó al control. Tuneado con alerones innecesarios, escape modificado que rugía, lunas polarizadas. El típico colectivo informal.
 
-—A ver, papeles y luces prendidas —exigió secamente.
+—Papeles y luces —ordenó el otro oficial.
 
-El conductor, un joven nervioso llamado Julio, entregó sus documentos con manos temblorosas. En el asiento del copiloto, Marco observaba la escena con una tensión apenas disimulada. El maletero del auto parecía inusualmente lleno para un vehículo que supuestamente solo llevaba tres pasajeros.
+El conductor, un flaco nervioso llamado Julio, entregó los documentos temblando. En el copiloto, Marco observaba todo con desconfianza. La maletera iba sospechosamente cargada.
 
-—¿A dónde van? —preguntó el oficial mientras revisaba los papeles con deliberada lentitud.
-—A Cerro, jefe —respondió Julio, evitando el contacto visual—. Llevamos pasajeros nomás.
-Torres se acercó al vehículo.
+—¿A dónde van?
 
-—Oye, ¿tienen espacio para uno más? El señor necesita llegar a Palcabamba.
+—A Cerro, jefe. Llevamos pasaje.
 
-Julio intercambió una mirada rápida con Marco antes de responder:
+Torres se acercó.
 
-—Claro, jefe. Siempre hay espacio para uno más.
+—Oye, ¿tienen espacio? El señor va a Palcabamba.
 
-—Perfecto —dijo Torres, volviéndose hacia Vargas—. ¡Ingeniero! Aquí tiene su transporte.
-Vargas se acercó al taxi, su expresión de disgusto apenas disimulada al ver el estado del vehículo. Las molduras cromadas añadidas sin criterio y el escape modificado que rugía innecesariamente parecían ofender su sensibilidad estética.
+Julio y Marco intercambiaron una mirada rápida. Toda una conversación en ese cruce de ojos.
 
-—¿Esto? —murmuró con desdén mientras subía al asiento trasero—. En fin, supongo que no hay opción.
+—Claro, jefe. Siempre hay espacio.
 
-El interior del auto olía a ambientador barato y a los restos de algún almuerzo. Vargas se acomodó lo mejor que pudo, apretujándose con otros dos pasajeros: una señora con una bolsa de mercado y un campesino con un chullo multicolor que masticaba coca silenciosamente.
-—Necesito llegar al abra de La Viuda —anunció Vargas con la arrogancia típica de quien está acostumbrado a dar órdenes—. Me esperan allí.
+—Perfecto. —Torres le hizo señas a Vargas—. Ingeniero, aquí tiene su transporte.
 
-Julio asintió a través del espejo retrovisor, su incomodidad palpable.
+Vargas se acercó al taxi con disgusto evidente. Todo en el vehículo ofendía su sensibilidad: el escape ruidoso, las calcomanías de mal gusto, el olor a cigarro barato que salía por las ventanas.
 
-—Claro, señor. Serían 20 luquitas.
+—¿Cuánto hasta el abra de La Viuda? —preguntó mientras subía.
 
-Mientras se alejaban del control policial, Marco se inclinó hacia Julio, susurrando:
+—Veinte lucas, señor.
 
-—Este pata pinta bien. Mira su reloj, debe ser un Rolex verídico.
+En el asiento trasero ya viajaban una señora con bolsas del mercado y un campesino con chullo multicolor mascando coca. Vargas se acomodó como pudo, protegiendo su maletín como si fuera su vida misma.
 
-El taxi desapareció en la niebla, dejando atrás el autobús varado y los oficiales ocupados con otros vehículos. Nadie podía sospechar que este encuentro aparentemente mundano pondría en marcha una cadena de eventos que sacudirían los cimientos mismos de nuestra sociedad.
+—Necesito llegar al abra. Me esperan.
 
-La neblina se cerraba sobre la carretera como un manto gris, difuminando los límites entre el asfalto y el abismo. El rugido del motor modificado resonaba contra las paredes rocosas, mezclándose con el silbido del viento que bajaba de las cumbres nevadas de la Cordillera de la Viuda, testigo mudo de las tragedias que estaban por desarrollarse bajo su sombra imponente.
+—No se preocupe, llegamos —dijo Julio arrancando.
 
-Para Julio y Marco, este viaje representaba una oportunidad única. Para Vargas, era el cierre de una extensa negociación. Y para los policías de la carretera PE-20A, era sólo otro día más.
+El Yaris se alejó del control y comenzó a subir por la carretera. Marco se volteó disimuladamente para estudiar al nuevo pasajero. El Rolex de Vargas brillaba incluso con la poca luz que entraba por las ventanas.
+
+—Este pata pinta bien —susurró a Julio—. Mira ese reloj, debe ser un Rolex legítimo.
+
+—Cállate —respondió Julio en voz baja—. No empieces.
+
+El taxi desapareció en la neblina, dejando atrás el bus varado y a los oficiales que ya estaban cobrando coima al siguiente vehículo. Torres y Ramírez continuaron su rutina: parar carros, revisar papeles, cobrar su tajada. Un día más en la carretera.
+
+Para Julio y Marco, este viaje empezaba como cualquier otro: llevar pasajeros, cobrar el pasaje, tal vez ganar unos soles extra si había encomiendas. Para Vargas, era solo un inconveniente más en su camino para cerrar el negocio de la mina.
+
+Ninguno de los tres sabía que este encuentro casual en medio de la neblina cambiaría sus vidas de maneras que no podían imaginar. Pero eso sería después, kilómetros más adelante, cuando los otros pasajeros hubieran bajado y quedaran solos en esa carretera que tantos secretos guardaba.
+
+El Yaris seguía subiendo, curva tras curva, mientras la neblina se hacía más densa y el mundo exterior desaparecía poco a poco. En el interior del auto, tres destinos convergían sin saberlo hacia un punto de no retorno.

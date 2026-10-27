@@ -9,146 +9,104 @@ next_chapter_url: /capitulo-02-la-carretera-envuelta-en-niebla.html
 next_chapter_title: "Capítulo 2"
 ---
 
-La noche caía sobre San Isidro como un manto de terciopelo negro, salpicado por las luces de los edificios corporativos que dominaban el skyline del distrito financiero de Lima. En el exclusivo Club Los Conquistadores, una estructura de concreto y vidrio que se alzaba como un monumento al poder económico, la actividad continuaba sin pausa incluso a altas horas de la noche.
+El squash era lo único que le quedaba a Ernesto Vargas para sentirse vivo. 
 
-El aire acondicionado mantenía una temperatura perfecta en los amplios pasillos alfombrados, donde el aroma a ambientador de diseñador se mezclaba sutilmente con el olor a sudor y desinfectante que emanaba de las áreas deportivas. Las paredes, decoradas con fotografías en blanco y negro de antiguas familias limeñas y trofeos deportivos, atestiguaban silenciosamente décadas de exclusividad social.
+A las diez de la noche, el Club Los Conquistadores de San Isidro seguía funcionando como si fuera mediodía. El aire acondicionado mantenía los pasillos a temperatura perfecta, ese microclima artificial que permitía a los socios olvidar que afuera Lima sudaba sus ocho millones de habitantes.
 
-En una de las canchas de squash, iluminada por luces fluorescentes que creaban sombras duras y definidas, dos figuras se movían en una danza frenética. El sonido de zapatillas chirriando contra el piso pulido y el golpeteo rítmico de la pelota contra las paredes creaban una cacofonía que rebotaba en el espacio cerrado.
+Vargas lanzó la pelota con violencia innecesaria. El impacto resonó en la cancha como un disparo. A sus cincuenta y dos años, todavía se movía con agilidad en la cancha, aunque la barriga de los almuerzos ejecutivos ya no podía disimularse ni con el polo Ralph Lauren más holgado.
 
-Ernesto Vargas, cincuenta y dos años, metro ochenta de altura y complexión robusta trabajada en el gimnasio, se lanzó hacia adelante con una agilidad que desmentía su edad. Su rostro, normalmente compuesto en una máscara de arrogancia profesional, estaba enrojecido por el esfuerzo. El sudor empapaba su polo Ralph Lauren de edición limitada y sus shorts Nike personalizados, una combinación que gritaba "éxito" incluso en la cancha de squash.
+—¡Carajo, Ernesto! —Carlos Mendoza esquivó el pelotazo por milímetros—. ¿Qué te pasa? Casi me sacas un ojo.
 
-—¡Jesús, Ernesto! —exclamó Carlos Mendoza, esquivando por milímetros una pelota que pasó zumbando junto a su oreja—. ¿Estás jugando squash o tratando de asesinarme?
+—Perdón. —Vargas se secó el sudor con la muñequera, aunque su tono no sonaba arrepentido—. Ha sido una semana de mierda.
 
-Vargas soltó una risa seca, pasándose la muñequera de marca por la frente. Sus ojos, pequeños y astutos detrás de las gafas protectoras, brillaron con un destello de satisfacción salvaje.
+Carlos lo conocía desde la universidad San Marcos, cuando ambos eran idealistas que iban a cambiar el país. Treinta años después, seguían siendo amigos, aunque el idealismo se había evaporado junto con el pelo de Carlos.
 
-—Lo siento, viejo —respondió, aunque su tono sugería lo contrario—. Ha sido una semana del demonio.
+—¿La mina de Palcabamba?
 
-Carlos, apoyándose contra la pared mientras recuperaba el aliento, estudió a su amigo con la mirada crítica de quien lo conocía desde los días de universidad. Ambos habían llegado juntos a la cima de sus carreras como abogados corporativos, pero últimamente notaba algo diferente en Ernesto, una tensión que iba más allá del estrés habitual.
+—Va. —Vargas se dejó caer contra la pared, un gesto inusual en alguien que siempre proyectaba control—. Pero no sabes la cantidad de mierda que hay que mover.
 
-—¿La mina va o no va? —preguntó, secándose el sudor con una toalla de algodón egipcio que llevaba bordado el logo del club.
+A través del vidrio de la cancha, el bar del club brillaba con luz dorada. Los mismos de siempre: ministros sin cartera, congresistas con inmunidad, empresarios con cuentas en Panamá. Todos bebiendo whisky de dieciocho años y repartiendo el Perú en pedacitos.
 
-Vargas asintió, su rostro ensombreciéndose. La pregunta pareció desinflar su energía anterior, como si el peso de la realidad hubiera caído repentinamente sobre sus hombros.
+—Define "mierda" —dijo Carlos, sentándose a su lado.
 
-—Va, va —respondió, dejándose caer al suelo con un suspiro pesado—. Pero no tienes idea, Carlos. Este trabajo de lobbista... a veces me pregunto si vale la pena.
+Vargas miró alrededor, ese gesto paranoico que había desarrollado últimamente. En el Club Los Conquistadores las paredes no tenían oídos, pero los mozos sí, y algunos cobraban doble sueldo.
 
-Se sentó con la espalda contra la pared fría, un gesto inusualmente vulnerable para alguien que se enorgullecía de su imagen de tiburón corporativo. Su Rolex Submariner, una recompensa por cerrar un acuerdo particularmente lucrativo el año anterior, brillaba bajo las luces fluorescentes.
+—Tuve que pasarle plata al congresista Mendivil. —Bajó la voz—. Cien mil verdes para que aprueben la modificación de la ley antes que termine este gobierno.
 
-—Vamos, no me vengas con crisis de conciencia ahora —bromeó Carlos, aunque su tono revelaba cierta preocupación. Se deslizó hasta quedar sentado junto a su amigo—. ¿Qué pasó esta vez?
+Carlos silbó. Era bastante, incluso para los estándares del Congreso.
 
-Vargas miró alrededor, un gesto paranoico que se había vuelto habitual en él últimamente. A través de las paredes de vidrio, podía ver a otros socios del club: ejecutivos, políticos, herederos de antiguas familias, todos parte del mismo círculo exclusivo que giraba en torno al poder y el dinero.
+—Eso no es nada —continuó Vargas—. El gobernador regional también quiso su tajada. La mina tuvo que prometerle contratos para sus empresas fantasma. Transporte, seguridad, hasta catering. Todo sobrevalorado al triple.
 
-—Tuve que 'aportar' a la campaña de un congresista —dijo en voz baja, haciendo comillas en el aire con dedos que temblaban ligeramente—. Para que aprueben la ley durante este gobierno.
+—Puta madre.
 
-Carlos silbó por lo bajo, un sonido que mezclaba admiración y censura en partes iguales.
+—Y hay más. —Vargas jugueteaba con su Rolex, dándole vueltas en la muñeca—. Los dirigentes de las comunidades también entraron al baile. Cinco mil dólares por cabeza para que no organicen protestas. Son como veinte comunidades.
 
-—Eso no suena tan mal. Es parte del juego, ¿no? —respondió, recordando sus propias negociaciones en los pasillos del poder.
+—¿Y la gente de la mina acepta todo eso?
 
-—Eso no es todo —continuó Vargas, su voz bajando a un susurro a pesar de estar solos—. El gobernador de la región también quiso su parte. La mina tuvo que darle contratos a una de sus empresas fantasma. Todo para que se haga de la vista gorda en temas ambientales y de seguridad.
+—¿Qué van a hacer? Sin los permisos no hay proyecto. Y sin proyecto, los canadienses se van a otra parte. Chile, Colombia, donde sea más fácil.
 
-—Mierda, Ernesto —murmuró Carlos, el fantasma de su antigua idealismo universitario asomándose brevemente en su expresión—. Eso sí es pesado.
+Vargas sacó su iPhone y lo agitó en el aire como si fuera un trofeo.
 
-Vargas asintió, su mirada perdida en algún punto distante más allá de las paredes de vidrio.
+—Al menos grabé todo. Cada reunión, cada negociación, cada soborno. Todo está aquí.
 
-—Al menos tengo grabaciones de todas esas conversaciones —continuó, sacando su iPhone último modelo—. Las guardo aquí como garantía, por si acaso algo sale mal y necesito salvar mi pellejo.
+Carlos lo miró como si le hubiera crecido otra cabeza.
 
-—Bien mosca eres —comentó Carlos, aunque su tono sugería que no estaba del todo convencido—. ¿No es peligroso guardar algo así?
+—¿Estás loco? ¿En tu celular personal?
 
-—¿Mosca? —Vargas soltó una risa amarga que resonó en la cancha vacía—. Es una bomba de tiempo. Si alguien llega a poner sus manos en mi celu, todo se va al carajo. La mina, los políticos, yo... todos caemos.
+—Es mi seguro de vida. Si me quieren joder, todos caemos juntos. Tengo al congresista pidiendo su coima, al gobernador negociando los contratos, hasta al viceministro prometiendo acelerar los permisos ambientales.
 
-Se hizo un silencio pesado entre los dos amigos. El sonido distante de risas provenientes del bar del club parecía una burla a la gravedad de su conversación.
+—Hermano, eso es una bomba de tiempo.
 
-—¿Y ahora qué? —preguntó finalmente Carlos, su voz mezclando preocupación genuina con curiosidad profesional.
+—¿Y qué quieres que haga? ¿Confiar en la palabra de estos cerdos? —La voz de Vargas destilaba un desprecio que iba más allá del cinismo profesional—. No, Carlos. En este país, el que no tiene pruebas está muerto.
 
-Vargas se puso de pie, recogiendo su raqueta con un movimiento brusco. Su rostro se endureció, adoptando una expresión que Carlos había visto muchas veces durante negociaciones particularmente difíciles.
+Se pusieron de pie. Vargas recogió su raqueta y empezó a hacer movimientos de calentamiento, como si quisiera exorcizar demonios a punta de ejercicio.
 
-—Ahora seguimos adelante —declaró con una mezcla de determinación y desdén—. Todo esto es por el progreso, Carlos. Por el bien de la comunidad.
+—Mañana salgo temprano —dijo entre estiramientos—. Voy en bus a la mina.
 
-Carlos alzó una ceja, el escepticismo evidente en su gesto.
+—¿En bus? —Carlos frunció el ceño—. ¿Desde cuándo el gran Ernesto Vargas viaja en bus interprovincial?
 
-—¿De verdad crees eso?
+—Necesito tiempo para pensar. Además, si voy en mi camioneta, seguro me paran en cada control policial para sacarme plata. En el bus paso desapercibido.
 
-Vargas soltó una carcajada despectiva, el sonido rebotando en las paredes como una acusación.
+—¿Y no te da miedo? Después de todo lo que me has contado...
 
-—¿Qué quieres que te diga? —respondió, su voz cargada de un desprecio que sorprendió incluso a Carlos—. Esos serranos de mierda siguen pensando que la maca los va a sacar de misios. Alguien tiene que llevarles la modernidad, aunque sea a la fuerza.
+Vargas soltó una risa amarga.
 
-Carlos lo miró, sorprendido por la dureza de sus palabras. En todos sus años de amistad, nunca había escuchado a Ernesto hablar con tanto veneno.
+—¿Miedo? Carlos, estos huevones son pura boca. Además, nadie sabe que tengo las grabaciones. Para ellos soy solo el lobista útil, el pituquito de San Isidro que les consigue lo que necesitan.
 
-—Ernesto, eso es...
+Sirvió la pelota. El juego se reanudó con la misma intensidad violenta. Entre golpe y golpe, Vargas seguía hablando, como si necesitara vaciar todo lo que llevaba dentro.
 
-—Es la realidad —interrumpió Vargas, su tono no admitía réplica—. Mira, mañana al amanecer salgo en bus hacia la mina. Tengo que llevar los contratos firmados para la tarde o estos malditos le darán la buena pro a otro proyecto y nos dejan colgados.
+—¿Sabes qué es lo más jodido? —dijo, devolviendo una pelota difícil—. Que al final todo esto es necesario. Estos serranos nunca van a salir adelante solos. Siguen creyendo que la papa y la maca son el futuro. Alguien tiene que traerles el progreso, aunque sea a la fuerza.
 
-—¿En bus? —Carlos alzó una ceja, sorprendido por esta decisión inusual en alguien que normalmente insistía en viajar en la mayor comodidad posible—. ¿Por qué no vas en tu camioneta y haces una parada en el famoso Rancho Rosa? Un poco de... relajación, si entiendes a qué me refiero.
+Carlos no respondió. Conocía ese discurso. Era el mismo que usaban todos en el club para justificar lo injustificable. Progreso, desarrollo, modernidad. Palabras mágicas que convertían la corrupción en patriotismo.
 
-—Necesito tiempo para pensar —respondió Vargas, volviendo a su posición en la cancha—. Además, no tengo tiempo que perder. Me esperan temprano en la mina.
+—Ten cuidado nomás —dijo finalmente—. No todos los problemas se resuelven con plata.
 
-Carlos asintió, una sonrisa encubridora en su rostro ocultando su preocupación creciente.
+—Ja. En el Perú sí. —Vargas golpeó la pelota con particular saña—. Aquí todo tiene precio. La justicia, la ley, hasta la indignación. Solo es cuestión de encontrar el monto correcto.
 
-Vargas se posicionó para servir, la pelota en su mano y una mirada determinada en su rostro que Carlos encontró perturbadora.
+El partido continuó media hora más. Vargas ganó, como siempre. No porque fuera mejor jugador, sino porque jugaba como si su vida dependiera de cada punto. Carlos lo había notado: su amigo ya no jugaba para ganar, jugaba para no perder. Y esa era una diferencia fundamental.
 
-—Mira Carlos. Créeme que lo sé —dijo, su voz mezclando resignación y arrogancia—. Pero ya es tarde para echarse atrás. Ahora solo puedo seguir adelante y esperar lo mejor. Alguien tiene que hacer el trabajo sucio para que el progreso llegue a esos lugares olvidados por Dios.
+En las duchas, mientras el agua caliente lavaba el sudor y tal vez algo de culpa, Vargas revisó mentalmente su agenda. Mañana a las seis de la mañana tomaría el bus en el terminal de Javier Prado. Ocho horas hasta Cerro de Pasco, luego un colectivo hasta la mina. Llevaba los contratos en su maletín, listos para la firma. Si todo salía bien, en dos días estaría de vuelta, con el proyecto asegurado y su comisión del diez por ciento garantizada.
 
-Con un movimiento rápido y preciso, producto de años de práctica en las canchas exclusivas del club, Vargas lanzó la pelota contra la pared frontal. El sonido del impacto resonó en la cancha como un disparo, marcando el inicio de otro set intenso.
+Se vistió con calma. El traje gris de Armani, la corbata de Hermès, los zapatos de Ferragamo. La armadura del ejecutivo exitoso. En el espejo del vestidor vio reflejado a un hombre que ya no reconocía del todo. ¿En qué momento había dejado de ser el abogado brillante para convertirse en esto? ¿Un mensajero de lujo para mineras extranjeras?
 
-La noche limeña continuaba su curso, indiferente a las conspiraciones que se tejían bajo su manto oscuro, y Ernesto Vargas seguía golpeando la pelota como si cada impacto pudiera alejar los fantasmas que lo perseguían.
+—No importa —murmuró al espejo—. Dos años más y me retiro. Con lo de este proyecto, más lo que tengo ahorrado, puedo largarme a Miami. O a Madrid. Donde nadie me conozca.
 
-Se sentó con la espalda contra la pared fría, un gesto inusualmente vulnerable para alguien que se enorgullecía de su imagen de tiburón corporativo. Su Rolex Submariner, una recompensa por cerrar un acuerdo particularmente lucrativo el año anterior, brillaba bajo las luces fluorescentes.
+Salió del club cerca de medianoche. El valet parking le trajo su BMW X5, esa mole negra que gritaba éxito pero que mañana dejaría en el garaje. Lima brillaba bajo él mientras descendía por la Costa Verde. Las luces del Larcomar, los edificios de Miraflores, el mar negro como petróleo. Su ciudad, su selva de cemento, el lugar donde había aprendido que todo y todos tenían un precio.
 
-—Vamos, no me vengas con crisis de conciencia ahora —bromeó Carlos, aunque su tono revelaba cierta preocupación. Se deslizó hasta quedar sentado junto a su amigo—. ¿Qué pasó esta vez?
+En su departamento de San Isidro, mientras preparaba el maletín para el viaje, revisó una vez más las grabaciones en su iPhone. Ahí estaban todas: la voz pastosa del congresista Mendivil aceptando el soborno, la risa cínica del gobernador regional negociando los porcentajes, el tono servil del viceministro prometiendo facilidades. Un catálogo de la corrupción nacional en alta definición.
 
-Vargas miró alrededor, un gesto paranoico que se había vuelto habitual en él últimamente. A través de las paredes de vidrio, podía ver a otros socios del club: ejecutivos, políticos, herederos de antiguas familias, todos parte del mismo círculo exclusivo que giraba en torno al poder y el dinero.
+Guardó el celular en el bolsillo interior del maletín, junto a los contratos y cinco mil dólares en efectivo para "gastos menores". Mañana sería otro día, otro viaje, otro negocio turbio disfrazado de desarrollo nacional.
 
-—Tuve que 'aportar' a la campaña de un congresista —dijo en voz baja, haciendo comillas en el aire con dedos que temblaban ligeramente—. Para que aprueben la ley durante este gobierno.
+Se sirvió un whisky —Johnnie Walker etiqueta azul, por supuesto— y se paró en el balcón a contemplar Lima. Ahí abajo, en algún lugar, dormían los millones de peruanos que no sabían cómo funcionaba realmente su país. Los ingenuos que creían en la democracia, en las instituciones, en que algún día las cosas mejorarían.
 
-Carlos silbó por lo bajo, un sonido que mezclaba admiración y censura en partes iguales.
+—Pobres ilusos —dijo al aire, alzando su vaso en un brindis solitario—. Si supieran.
 
-—Eso no suena tan mal. Es parte del juego, ¿no? —respondió, recordando sus propias negociaciones en los pasillos del poder.
+El celular vibró. Un mensaje de WhatsApp del gerente de la mina: "Todo listo para mañana. El gobernador ya está alineado. Trae los contratos y cerramos."
 
-—Eso no es todo —continuó Vargas, su voz bajando a un susurro a pesar de estar solos—. El gobernador de la región también quiso su parte. La mina tuvo que darle contratos a una de sus empresas fantasma. Todo para que se haga de la vista gorda en temas ambientales y de seguridad.
+Vargas sonrió. Otra victoria para el sistema. Otra derrota para los idealistas. El Perú seguiría siendo el mismo país de siempre, donde los vivos viven de los zonzos y los zonzos viven como pueden.
 
-—Mierda, Ernesto —murmuró Carlos, el fantasma de su antigua idealismo universitario asomándose brevemente en su expresión—. Eso sí es pesado.
+Terminó su whisky de un trago y fue a dormir. Mañana tomaría ese bus hacia Cerro de Pasco, con su maletín lleno de contratos y su celular lleno de secretos. No tenía idea —no podía tenerla— de que ese sería su último viaje, y que sus grabaciones desatarían una tormenta que sacudiría los cimientos del poder.
 
-Vargas asintió, su mirada perdida en algún punto distante más allá de las paredes de vidrio.
+Pero esa noche, en su cama king size con sábanas egipcias de ochocientos hilos, Ernesto Vargas durmió tranquilo. Después de todo, él conocía las reglas del juego. Y en el Perú, los que conocen las reglas nunca pierden.
 
-—Al menos tengo grabaciones de todas esas conversaciones —continuó, sacando su iPhone último modelo—. Las guardo aquí como garantía, por si acaso algo sale mal y necesito salvar mi pellejo.
-
-—Bien mosca eres —comentó Carlos, aunque su tono sugería que no estaba del todo convencido—. ¿No es peligroso guardar algo así?
-
-—¿Mosca? —Vargass soltó una risa amarga que resonó en la cancha vacía—. Es una bomba de tiempo. Si alguien llega a poner sus manos en mi celu, todo se va al carajo. La mina, los políticos, yo... todos caemos.
-
-Se hizo un silencio pesado entre los dos amigos. El sonido distante de risas provenientes del bar del club parecía una burla a la gravedad de su conversación.
-
-—¿Y ahora qué? —preguntó finalmente Carlos, su voz mezclando preocupación genuina con curiosidad profesional.
-
-Vargas se puso de pie, recogiendo su raqueta con un movimiento brusco. Su rostro se endureció, adoptando una expresión que Carlos había visto muchas veces durante negociaciones particularmente difíciles.
-
-—Ahora seguimos adelante —declaró con una mezcla de determinación y desdén—. Todo esto es por el progreso, Carlos. Por el bien de la comunidad.
-
-Carlos alzó una ceja, el escepticismo evidente en su gesto.
-
-—¿De verdad crees eso?
-
-Vargas soltó una carcajada despectiva, el sonido rebotando en las paredes como una acusación.
-
-—¿Qué quieres que te diga? —respondió, su voz cargada de un desprecio que sorprendió incluso a Carlos—. Esos serranos de mierda siguen pensando que la maca los va a sacar de misios. Alguien tiene que llevarles la modernidad, aunque sea a la fuerza.
-
-Carlos lo miró, sorprendido por la dureza de sus palabras. En todos sus años de amistad, nunca había escuchado a Ernesto hablar con tanto veneno.
-
-—Ernesto, eso es...
-
-—Es la realidad —interrumpió Vargas, su tono no admitía réplica—. Mira, mañana al amanecer salgo en bus hacia la mina. Tengo que llevar los contratos firmados para la tarde o estos malditos le darán la buena pro a otro proyecto y nos dejan colgados.
-
-—¿En bus? —Carlos alzó una ceja, sorprendido por esta decisión inusual en alguien que normalmente insistía en viajar en la mayor comodidad posible—. ¿Por qué no vas en tu camioneta y haces una parada en el famoso Rancho Rosa? Un poco de... relajación, si entiendes a qué me refiero.
-
-—Necesito tiempo para pensar —respondió Vargas, volviendo a su posición en la cancha—. Además, no tengo tiempo que perder. Me esperan temprano en la mina.
-
-Carlos asintió, una sonrisa encubridora en su rostro ocultando su preocupación creciente.
-
-Vargas se posicionó para servir, la pelota en su mano y una mirada determinada en su rostro que Carlos encontró perturbadora.
-
-—Mira Carlos. Créeme que lo sé —dijo, su voz mezclando resignación y arrogancia—. Pero ya es tarde para echarse atrás. Ahora solo puedo seguir adelante y esperar lo mejor. Alguien tiene que hacer el trabajo sucio para que el progreso llegue a esos lugares olvidados por Dios.
-
-Con un movimiento rápido y preciso, producto de años de práctica en las canchas exclusivas del club, Vargas lanzó la pelota contra la pared frontal. El sonido del impacto resonó en la cancha como un disparo, marcando el inicio de otro set intenso.
-
-La noche limeña continuaba su curso, indiferente a las conspiraciones que se tejían bajo su manto oscuro, y Ernesto Vargas seguía golpeando la pelota como si cada impacto pudiera alejar los fantasmas que lo perseguían.
-
-Afuera, la ciudad palpitaba con su habitual energía nocturna. Las unidades del serenazgo patrullaban las calles del distrito financiero, manteniendo a raya cualquier intrusión del "otro Perú" en este enclave de privilegio, sin sospechar que pronto sus mundos colisionarían de manera violenta e irreversible.
+O eso creía.
