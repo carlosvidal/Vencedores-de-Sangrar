@@ -51,11 +51,13 @@ Quispe era buen muchacho: veintiséis años, tres en la policía, casado hace un
 
 —Ay, Quispe, más lento que una llama coja eres. —Mamani sonrió, una sonrisa genuina que iluminó su rostro cansado—. Si no me lo pides tú ya mismo, le voy a decir a Rosita que me nombre madrina ella solita.
 
-Ambos rieron. Era uno de esos momentos raros de alegría que hacían tolerable el trabajo en este pueblo olvidado. Entonces el teléfono sonó, cortando la risa como un cuchillo. El aparato negro y pesado, de esos antiguos de disco, parecía un cuervo graznando malas noticias.
+Ambos rieron. Era uno de esos momentos raros de alegría que hacían tolerable el trabajo en este pueblo olvidado.
+
+El resto de la mañana se fue como se iban todas: una denuncia por una oveja robada, un minero que venía a quejarse del vecino, papeles que llenar por triplicado. Pasadas las dos de la tarde, el teléfono sonó, cortando la modorra como un cuchillo. El aparato negro y pesado, de esos antiguos de disco, parecía un cuervo graznando malas noticias.
 
 —Comisaría de Huayllay, Sargento Mamani al habla.
 
-—Buenos días, Sargento. —La voz al otro lado sonaba tensa, con ese nerviosismo mal disimulado de quien esconde algo—. Le hablo de la mina Palcabamba. Estamos... preocupados por uno de nuestros colaboradores, el doctor Ernesto Vargas. Debía llegar esta mañana temprano para una reunión crucial y no ha aparecido.
+—Buenas tardes, Sargento. —La voz al otro lado sonaba tensa, con ese nerviosismo mal disimulado de quien esconde algo—. Le hablo de la mina Palcabamba. Estamos... preocupados por uno de nuestros colaboradores, el doctor Ernesto Vargas. Debía llegar a mediodía para una reunión crucial y no ha aparecido.
 
 Mamani enderezó la espalda, su instinto policial activándose como un perro que huele sangre.
 
@@ -85,7 +87,7 @@ Colgó con más fuerza de la necesaria. El auricular resonó contra la base. Qui
 
 —¿Qué va a hacer, Sargento?
 
-Mamani se levantó, ajustándose el cinturón donde colgaba su revólver reglamentario, un Smith & Wesson .38 tan viejo como confiable. Sacó el sánguche del bolsillo, le dio el segundo mordisco del día —las nueve en punto, tocaba— y masticó lentamente antes de guardarlo.
+Mamani se levantó, ajustándose el cinturón donde colgaba su revólver reglamentario, un Smith & Wesson .38 tan viejo como confiable. Sacó el sánguche del bolsillo, le dio otro mordisco —el de las dos, que se le había pasado entre tanto papeleo— y masticó lentamente antes de guardarlo.
 
 —Voy a dar una vuelta por el pueblo, hacer algunas preguntas. Si alguien llama, estoy investigando una desaparición.
 

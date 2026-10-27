@@ -70,7 +70,7 @@ Sánchez sintió un nudo en el estómago al pensar en Valentina, apenas un año 
 
 Sánchez presionó el intercomunicador. —Señorita Ríos, comuníqueme con la comisaría de Huayllay. A lo mejor saben si hay algún bloqueo en la carretera que pueda estar retrasando a Vargas.
 
-La llamada a la comisaría fue breve y poco satisfactoria. No había reportes de bloqueos, pero tampoco certeza de que Vargas hubiera pasado por ese tramo de la carretera.
+La llamada a la comisaría fue breve y poco satisfactoria. No había reportes de bloqueos, y la sargento que contestó no sabía nada de Vargas. Lo único que se le ocurrió fue insinuar que buscaran en el Rancho Rosa, como si Ernesto fuera uno de esos ejecutivos limeños que se pierden entre cervezas y chicas. Sánchez colgó con un mal sabor de boca. Por absurda que sonara la idea, era un punto de partida.
 
 Tras colgar, Sánchez tomó su radio de seguridad.
 
