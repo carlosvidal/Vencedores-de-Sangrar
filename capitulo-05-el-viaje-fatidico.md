@@ -5,8 +5,8 @@ title: "El viaje fatídico"
 chapter_image: /img/capitulo-5.webp
 prev_chapter_url: /capitulo-04-la-orden.html
 prev_chapter_title: "Capítulo 4"
-next_chapter_url: /capitulo-07-el-camino-de-montenegro.html
-next_chapter_title: "Capítulo 7"
+next_chapter_url: /capitulo-06-el-camino-de-montenegro.html
+next_chapter_title: "Capítulo 6"
 ---
 
 
