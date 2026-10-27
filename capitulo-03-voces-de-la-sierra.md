@@ -9,7 +9,7 @@ next_chapter_url: /capitulo-04-la-orden.html
 next_chapter_title: "Capítulo 4"
 ---
 
-Huayllay, cuatro mil setecientos metros sobre el nivel del mar. El amanecer llegaba cortante y frío, con ese aire delgado que recordaba a cada respiro la altura. La Sargento María Mamani emergió de su casa de adobe en las afueras del pueblo, el uniforme pulcramente planchado, el cabello negro recogido en un moño apretado que le daba ese aire de autoridad necesario en un mundo de hombres.
+Huayllay, cuatro mil setecientos metros sobre el nivel del mar. Esa misma mañana, el amanecer llegaba cortante y frío, con ese aire delgado que recordaba a cada respiro la altura. La Sargento María Mamani emergió de su casa de adobe en las afueras del pueblo, el uniforme pulcramente planchado, el cabello negro recogido en un moño apretado que le daba ese aire de autoridad necesario en un mundo de hombres.
 
 Mientras caminaba hacia la plaza, su mano derecha buscó automáticamente el bolsillo de la chaqueta. Ahí estaba, como siempre: el reloj de bolsillo de su padre, frío y muerto desde inicios de los noventa. Un peso familiar que la acompañaba cada día, recordándole promesas incumplidas. "Pronto lo arreglaré", se decía cada mañana desde hacía meses.
 
