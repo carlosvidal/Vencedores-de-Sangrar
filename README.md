@@ -1,10 +1,10 @@
-# Vencedores de Sangrar
+# Vencedores de Sángrar
 
 Una novela de misterio ambientada en Perú que explora temas de poder, corrupción y justicia.
 
 ## Acerca del Proyecto
 
-Este repositorio contiene los capítulos de la novela "Vencedores de Sangrar" publicada como un sitio web estático usando GitHub Pages y Jekyll.
+Este repositorio contiene los capítulos de la novela "Vencedores de Sángrar" publicada como un sitio web estático usando GitHub Pages y Jekyll.
 
 ## Estructura del Proyecto
 
